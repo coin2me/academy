@@ -1,155 +1,156 @@
-==================================
-Particl Marketplace Brief Overview
-==================================
+=================================
+Краткий обзор Particl Marketplace
+=================================
 
 .. meta::
+   :description lang=ru: Изучите кратко ключевые моменты при использовании Particl Marketplace.
    :description lang=en: Find out about key factors when using Particl Marketplace in a brief overview.
 
-The :term:`Particl Marketplace` is your private and :term:`decentralized <Decentralization>` online marketplace to buy and sell anything online. Here, there is no marketplace company, e-commerce service provider, database, server, hosting service, payment processor, bank, and no other kind of third-party involved—just pure and confidential person-to-person transactions between you and another person.
+:term:`Particl Marketplace` - это конфиденциальная и :term:`децентрализованнная <Decentralization>` онлайн площадка для покупки и продажи чего-либо в интернете. Здесь нет управляющей компании, поставщика услуг электронной коммерции, базы данных, сервера, службы хостинга, платежной системы, банка или каких-либо других сторонних организаций, участвующих в процессе работы - есть только конфиденциальные транзакции напрямую между вами и другим человеком. 
 
-This gives you many new benefits not possible before with traditional e-commerce, but there are just a few things you need to be aware of before you get started. It's very easy to use; let's go over them!
-
-.. seealso::
-
-	- Particl Academy - Introduction :ref:`What You Gain`
-	- Particl Academy - Introduction :ref:`Target Audiences`
-	- Particl Academy - Explained :ref:`Particl Marketplace <Particl Marketplace Explained>`
-
-Don't Trust, Verify!
---------------------
-
-By choosing to use :term:`Particl Marketplace`, you give yourself all the tools you need to confidently stay ahead of the technological curve with industry-leading :doc:`privacy technologies <../in-depth/indepth_privacy_tips>`.
-
-And you don't need to trust anyone; the code is open-source, independently audited, and freely available online for everyone to inspect. See for yourself!
+Это дает вам много новых преимуществ, которые были бы невозможны раньше, в традиционной электронной коммерции. Но есть лишь несколько вещей, о которых вам нужно узнать прежде чем начать работать. Это не сложно, давайте пройдемся по ним! 
 
 .. seealso::
 
-	- Github - Overview `Particl Repositories <https://github.com/particl>`_
+	- Академия Particl - Вступление - :ref:`Что вы получаете`
+	- Академия Particl - Вступление - :ref:`Целевые аудитории`
+	- Академия Particl - Объяснения - :ref:`Particl Marketplace <Particl Marketplace Explained>`
+
+Не доверяй - проверяй!
+----------------------
+
+Выбирая :term:`Particl Marketplace`, вы получаете все инструменты, необходимые чтобы пользоваться новейшими технологическими достижениями и  ведущим :doc:`технологиям обеспечения конфиденциальности <../in-depth/indepth_privacy_tips>` в отрасли.
+
+И вам не нужно кому-либо верить что это правда: исходный код открыт, проверен независимыми экспертами и доступен онлайн для каждого, кто пожелает проверить самостоятельно. И вы тоже можете его посмотреть!
+
+.. seealso::
+
+	- Github - `Репозитории Particl <https://github.com/particl>`_
 
 
 ----
 
-General Usage and Concept
--------------------------
+Общее применение и концепция
+----------------------------
 
-:term:`Particl Marketplace` is a new type of online marketplace. It lets you enjoy an easy and cost-effective shopping experience that makes zero compromise on the core values of :term:`decentralization <Decentralization>`, :doc:`security, privacy <../in-depth/indepth_privacy_tips>`, and :term:`disintermediation <Disintermediation>`.
+:term:`Particl Marketplace` - это торговая площадка нового типа в интернете. Она даст вам возможность делать покупки легко и экономически выгодно, без компромиссов в отношении основных принципов :term:`децентрализации <Decentralization>`, :doc:`безопасности, конфиденциальности <../in-depth/indepth_privacy_tips>` и :term:`дезинтермедиации <Disintermediation>`.
 
-That will make you stand out and stay on top!
+Это позволит вам выделиться и оставаться на вершине!
 
 .. note::
 
-	A web and a mobile version of :term:`Particl Marketplace` are planned to be released later on and will play a key role in making the platform more accessible and convenient to use.
+	Мобильная и браузерная версии of :term:`Particl Marketplace` запланированы к выпуску позднее, и им отводится ключевая роль в том, чтобы сделать платформу более доступной и удобной в использовании.
 
 .. seealso::
 
-	- Particl Academy - Guide :ref:`User-Interface`
-	- Particl Academy - Explained :ref:`Security and Privacy <Security and Privacy Explained>`
+	- Академия Particl - Руководство пользователя :ref:`User-Interface`
+	- Академия Particl - Объяснения :ref:`Безопасность и конфиденциальность <Security and Privacy Explained>`
 
 ----
 
-Payment Processing
+Обработка платежей
 ------------------
 
-To benefit from near-free, near-instant currency transactions that cannot be held up, blocked, reversed, or delayed by anyone, you transact on :term:`Particl Marketplace` using digital currencies commonly called :term:`cryptocurrencies <Cryptocurrency>`.
+Чтобы вы смогли воспользоваться всеми преимуществами почти бесплатных и почти мгновенных платежей, которые не могут быть кем-либо задержаны, заблокированы, отменены или отложены, для расчетов на :term:`Particl Marketplace` используются цифровые валюты, которые чаще называют :term:`криптовалютами <Cryptocurrency>`.
 
-You can use an ever-growing list of digital currencies to make payments on :term:`Particl Marketplace`. However, the :ref:`final settlement <Marketplace Payments and Settlements>` of any payment is always made in :doc:`PART <../in-depth/indepth_part_coin>`, Particl’s own :term:`cryptocurrency <Cryptocurrency>`.
+Список различных цифровых валют, которыми можно расплачиваться на :term:`Particl Marketplace`, постоянно растет. Однако, :ref:`окончательный расчет <Marketplace Payments and Settlements>` любого платежа всегда производится в :doc:`PART <../in-depth/indepth_part_coin>`, собственной  :term:`криптовалюте <Cryptocurrency>` экосистемы Particl.
 
 .. note::
 
-	Payments with local, national currencies (i.e., USD, EUR) will be integrated later on. They will play a key role in making the platform even more accessible and convenient to use.
+	Возможность оплачивать непосредственно в национальных валютах (таких как USD, EUR и другие) будет интегрирована позднее. Это играет  ключевую роль в том, чтобы сделать платформу более доступной и удобной в использовании.
 
 .. seealso::
 
-	- Particl Academy - Explained :ref:`PART Coin <Currency (PART) Explained>`
+	- Академия Particl - Объяснения :ref:`Монета PART <Currency (PART) Explained>`
 
 ----
 
-Fraud Protection
-----------------
+Защита от мошенничества
+-----------------------
 
-Regardless if you're a vendor or a customer, you equally hate falling victim to a scammer. You want to protect yourself against fraud at all times, at no extra cost, and without any hassle. 
+Будь вы продавец или покупатель - вам одинаково не хочется стать жертвой мошенничества. Вы стремитесь защитить себя от мошенничества всегда, и желательно чтобы без каких-либо дополнительных затрат и лишних хлопот. 
 
-One of :term:`Particl Marketplace`'s unique selling propositions makes it a breeze for you to achieve that.
+Одна из возможностей :term:`Particl Marketplace` упрощает эту задачу для вас.
 
-Any purchase you make on the marketplace is secured by a :doc:`two-party escrow system <../in-depth/indepth_escrow>` that keeps you and your money safe without requiring any third-party.
+Любая ваша покупка на торговой площадке защищена :doc:`системой двустороннего депонирования <../in-depth/indepth_escrow>`, которая хранит вас и ваши деньги в безопасности, без привлечения посредников.
 
 .. seealso::
 
-	- Particl Academy - Explained :ref:`Two-Party Escrow <Two-Party Escrow Explained>`
+	- Академия Particl - Объяснения :ref:`Система двустороннего депонирования <Two-Party Escrow Explained>`
 
 ----
 
-Phases of a Deal
-----------------
+Фазы сделки
+-----------
 
 .. figure:: ../_static/media/images/001_phases_of_a_deal.png
     :align: center
-    :alt: Particl Marketplace's phases of a deal
+    :alt: Фазы сделки на торговой площадке Particl
     :target: ../_static/media/images/001_phases_of_a_deal.png
 
-:term:`Particl Marketplace` not only saves you a lot of money, but it also gives you a ton of security and privacy benefits. That's why you're willing to do :ref:`three more steps <Step-by-Step Process>` to complete a purchase in full!
+:term:`Particl Marketplace` не только экономит вам немало денег, но также дает вам много преимуществ в плане безопасности и конфиденциальности. И для этого от вас требуется совершить всего на :ref:`три несложных действия больше <Step-by-Step Process>` для осуществления покупки!
 
-These three additional steps are the only compromises made over traditional marketplaces. Now compare this tradeoff to all the benefits they get you. That’s a pretty sweet deal!
+Лишь эти три дополнительных шага могут показаться "неудобством" сравнительно с традиционными торговыми площадками. А теперь сравните этот незначительный компромисс со всеми получаемыми преимуществами. Очень даже выгодно получается!
 
 .. note::
 
-	We are constantly improving the software and its user experience. Eventually, we also want to get rid of these extra steps.
+	Мы постоянно улучшаем программное обеспечение и удобство работы с ним. И в конце концов мы хотим избавиться даже от этих лишних шагов когда-нибудь.
 
 .. seealso::
 
-	- Particl Academy - Explained :ref:`A deal as a Step-by-Step Process <Step-by-Step Process>`
-	- Particl Academy - Introduction :ref:`Target Audiences`
+	- Академия Particl - Объяснения :ref:`Процесс сделки пошагово <Step-by-Step Process>`
+	- Академия Particl - Вступление - :ref:`Целевые аудитории`
 
 ----
 
-Community Markets
------------------
-
-Want to have your own shop or even launch an entire market? Do you want it to be publicly available or kept secret between a few individuals?
-
-On :term:`Particl Marketplace`, you can deploy as many :doc:`shops and markets <../guides/guide_mp_general_market_management>` as you wish. At all times, you stay in complete control of their associated data, their level of privacy, and accessibility. And to put the icing on the cake, this all comes at no extra cost for you.
-
-You can use :term:`community markets <Community Market>` for almost anything. You can launch your own brand stores, markets for your online community, NFT markets, art galleries (bidding auctions), VIP or private stores, OTC desks, pop-up stores, and pretty much anything you can imagine. The possibilities are endless!
-
-.. seealso::
-
-	- Particl Academy - Guide :doc:`../guides/guide_mp_general_market_management`
-
-----
-
-Content Moderation
+Общественные рынки
 ------------------
 
-The “wisdom of the crowd” is your secret power when it comes to moderating :term:`Particl Marketplace`. 
+Хотите открыть собственный магазин или даже запустить целый рынок? Хотели бы вы сделать его общедоступным или держать в секрете для избранных?
 
-Since you, everybody, and nobody owns the :term:`Particl Marketplace`, every participant has the equal ability to flag and take off undesirable content. 
+На :term:`Particl Marketplace`, вы можете создать столько таких :doc:`магазинов или рынков <../guides/guide_mp_general_market_management>` сколько захотите.  И у вас всегда будет полный контроль над их настройками, над уровнем их конфиденциальности и доступности. И вишенка на торте - все это без каких-либо дополнительных затрат для вас.
 
-See something you think shouldn't be on the marketplace? Flag it! When enough people do the same, it will be taken off the market. Flagging a listing will also take it off your local version of the marketplace to prevent you from seeing it again.
+Вы можете использовать :term:`общественные рынки <Community Market>` практически для всего. Можно запускать собственные фирменные магазины, или рынки для какой-либо своей онлайн-группы, рынки NFT, художественные галереи (аукционы), VIP или частные магазины, ОТС обменники, всплывающие магазины, и многое другое, все что вы можете себе представить. Возможности безграничны!
 
 .. seealso::
 
-	- Particl Academy - Explained :ref:`Marketplace Moderation <Marketplace Moderation Explained>`
+	- Академия Particl - Руководство пользователя :doc:`../guides/guide_mp_general_market_management`
+
+----
+
+Модерация контента
+------------------
+
+«Мудрость толпы» - это ваша секретная сила, когда дело доходит до модерации :term:`Particl Marketplace`. 
+
+Поскольку ни вы, ни другие, ни кто-либо вообще не владеет торговой площадкой :term:`Particl Marketplace`, то каждый пользователь имеет равные возможности помечать и удалять нежелательный контент. 
+
+Увидели что-то, чего по вашему мнению не должно быть в продаже на торговой площадке? -Отметьте это! Как только достаточное количество людей сделают то же самое - это объявление о продаже будет удалено. Пометка объявления сразу же удалит его из вашей локальной копии торговой площадки, чтобы вы больше не видели его.
+
+.. seealso::
+
+	- Академия Particl - Объяснения :ref:`Модерация торговой площадки <Marketplace Moderation Explained>`
 
 
 ----
 
-Work in Progress
-----------------
+Работа продолжается
+-------------------
 
-:term:`Particl Project` is an ever-ongoing work in progress. Every day, it gets better, easier to use, and more accessible. Exciting new projects and features constantly emerge to help the :term:`Particl ecosystem <Particl Ecosystem>` thrive. 
+Работа над :term:`проектом Particl <Particl Project>` постоянно продолжается. С каждым днем он становится лучше, проще в использовании, доступнее. Постоянно появляются новые интересные дополнения и функции, которые способствуют движению всей :term:`экосистемы Particl <Particl Ecosystem>` к процветанию. 
 
-Be a part of it – as a customer, vendor, promoter, developer, manager, or any other void you can fill with your passion.
+Станьте частью этого – как покупатель, или как продавец, промоутер, разработчик, менеджер, либо же в любой другой нише, соответствующей вашим увлечениям.
 
 .. admonition:: Action
 
-	Visit the blog `Particl News <https//particl.news/>`_, follow on `Twitter <https://twitter.com/particlproject>`_, `Reddit <https://reddit.com/r/particl>`_, or register to the newsletter to stay in the loop about what's coming next.
+	Читайте наш блог `Particl News <https//particl.news/>`_, подпишитесь на наши `Twitter <https://twitter.com/particlproject>`_ и `Reddit <https://reddit.com/r/particl>`_, или подпишитесь на новостные письма чтобы быть в курсе происходящих событий.
 
 ----
 
-**Almost there**
+**Почти преодолели**
 
-Phew! You've made it this far! By now, you have a pretty good understanding of the :term:`Particl Marketplace`. In the next section, you'll have a deeper look into all of its components. 
+Фух! Вы прошли так далеко! Теперь  вы довольно хорошо знаете торговую площадку :term:`Particl Marketplace`. В следующей главе мы рассмотрим все ее компоненты более углубленно. 
 
-But perhaps you want to skip that part and install it right away? Then head over to the :ref:`Installation Guides`.
+Но, возможно вы хотите пропустить эту часть и установить торговую площадку прямо сейчас? Тогда перейдите сюда- :ref:`Руководство по установке`.
 
 ----

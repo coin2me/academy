@@ -1,9 +1,10 @@
-=========================
-Currency (PART) Explained
-=========================
+====================
+Монета PART подробно
+====================
 
 .. meta::
       
+      :description lang=ru: Подробный обзор PART как конфиденциальной монеты Particl.
       :description lang=en: Deep dive explanation of Particl's privacy coin PART.
 
 PART is the untraceable :term:`cryptocurrency <Cryptocurrency>` of the :term:`Particl Blockchain`; a :term:`blockchain <Blockchain>` based on the Bitcoin code on which several privacy and utility technologies have been added. It enables you to make independent, secure, borderless, and private payments without requiring any third-party like a bank or a payment processor.

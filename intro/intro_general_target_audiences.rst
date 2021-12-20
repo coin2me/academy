@@ -1,162 +1,164 @@
-================
-Target Audiences
-================
+=================
+Целевые аудитории
+=================
 
 .. title::
-   Particl Marketplace Target Audiences
+   Целевые аудитории торговой площадки Particl
    
 .. meta::
-   :description lang=en: Who is using Particl Marketplace? The audiences and participants are very special people. Everything but average. 
+   :description lang=en: Who is using Particl Marketplace? The audiences and participants are very special people. Everything but average.
+   :description lang=ru: Кто использует Particl Marketplace? Публика и участники - особенные люди. Все, кроме среднего. 
    :keywords lang=en: Particl, Marketplace, Introduction, Who, Blockchain, Privacy, E-Commerce
 
-Just using :term:`Particl Marketplace` helps you prevent yourself from being treated as an exploited product. Without additional efforts, like casually, you contribute to the well-being of our society by directly supporting individuals and small businesses all across the world, not corporations.
+Использование именно :term:`торговой площадки Particl <Particl Marketplace>` поможет вам избежать того, чтобы вас рассматривали как эксплуатируемый продукт. Вы вносите свой вклад в благополучие нашего сообщества работая как обычно, без каких-либо дополнительных усилий, но тем самым вы напрямую поддерживаете отдельных лиц и малый бизнес по всему миру, а не корпорации. 
 
-Stand for fairness for consumers, equal opportunity for merchants and vendors, and freedom for all people. Let others not take control of you. Give it a try; you’ll fall in love with it!
-
-----
-
-In Dire Need
-------------
-
-**Who needs a trustless, peer-to-peer trade and commerce environment?**
-
-Customers can never be 100% sure that they will receive the goods and services they’ve bought with the agreed specifications and quality. Likewise, suppliers sometimes encounter problems getting full payments for goods they deliver.
-
-These examples from the industrial business world show how orders across national borders are still problematic for all parties involved if there isn’t a pre-existing trust relationship. This contractual insecurity applies to almost any industry. Too often, both parties end up being left with a waste of time, money, and confidence.
-
-Another example is the not-so-known problem of exit-scam schemes where money gets put into third-party escrow services with the deepest belief of a safe business transaction, but with an unfortunate and costly outcome.
-
-*“We help you to build, enable, and maintain safe and trustless business and commerce relationships.“*
+Отстаивайте справедливость по отношению к потребителям, равные возможности для торговцев и продавцов, и свободу для всех людей. Не позволяйте другим контролировать вас. Попробуйте, вам это понравится!
 
 ----
 
-**Who needs privacy in e-commerce?**
+Крайне нуждаются
+----------------
 
-There are very good reasons for privacy in e-commerce. After all, it’s nothing more than what we’ve been used to since the dawn of cash. It used to be that any commercial transaction made with cash was inherently private, a rapidly eroding concept ever since the internet came to be.
+**Так кому же  для торговли и коммерции нужна одноранговая среда, не требующая доверия?**
 
-Today, privacy helps you protect yourself from data leaks and abuses, spam, and unwanted solicitations. Furthermore, it ensures that nobody can create a credit score, invasive customer profile, or insurance risk score without your knowledge or consent.
+Покупатели никогда не могут быть на 100% уверены, что они получат купленные ими товары или услуги в полном соответствии оговоренным по комплектности и качеству. Аналогично и поставщики иногда сталкиваются с проблемами в получении полной оплаты за уже поставленные товары.
 
-On top of that, big e-commerce platforms actively work on cannibalizing their users for their own benefits. They trace and invade their successful vendors’ supply chains, put pressure on the suppliers, and copy trending or popular products. They then sell the copied products with their branding while suppressing or reducing the original vendor’s exposure on their commerce platform. You may know one of the most famous online marketplaces in the world, which is entirely powered by this predatory behavior. But did you know that they repeat the same with their more than 100 in-house brands?
+Многие примеры из промышленного делового мира показывают, что заказы через национальные границы по-прежнему остаются проблематичными для всех вовлеченных сторон, особенно если между ними ещё не сложились некоторые доверительные отношения. Эта ненадежность договоров, и устных, и написанных на бумаге, применима практически к любой отрасли. Слишком уж часто обе стороны теряют время, деньги и доверие.
 
-*“We help you prevent others from turning your success into a weapon to be used against you.“*
+Другой пример, не столь распространенный - проблема екзит-скам схем, когда деньги перечисляются в какой-нибудь сервис условного депонирования, принадлежащий 3й стороне, и якобы считавшися надежным и безопасным для проведения сделки. Но заканчивается все крайне плачевно и дорогостояще. 
+
+*“Мы помогаем вам строить, устанавливать и поддерживать  не требующие доверия, но тем не менее безопасные деловые и коммерческие отношения.“*
 
 ----
 
-**Who is suffering from oppression and abusive restrictions in e-commerce?**
+**Кому нужна конфиденциальность в электронной коммерциии?**
 
-Still to this day, this world has regions where political oppression and censorship are the status quo. Their citizens need a solution that delivers a way to do commerce without being persecuted. One can understand it as the equivalent of the human right of freedom of speech.
+Есть очень веские причины для сохранения конфиденциальности в электронной коммерции. В конце концов, это не более чем именно то, к чему мы все  привыкли с момента появления наличных денег. Любая коммерческая транзакция, совершаемая наличными деньгами, была по сути своей конфиденциальной! Однако, эта концепция быстро разрушилась с тех пор как появился интернет.
 
-This problem is spreading globally and is not limited to countries deemed as authoritarian anymore. Tech giants censor individuals, businesses, or specific content that doesn't fit their agenda, leading to an ever-increasing online liberty crisis. You may have witnessed it in journalism, politics, literature, or philosophy when following the news.
+Сегодня конфиденциальность помогает защитить себя от утечки данных и злоупотреблений, от спама и нежелательных предложений. Более того, это гарантирует что никто не сможет просчитать ваш кредитный рейтинг, профиль потенциального клиента или оценить ваши страховые риски без вашего ведома и согласия.
+
+Вдобавок ко всему, крупные платформы электронной коммерции активно занимаются каннибализмом своих пользователей ради собственной выгоды. Они отслеживают, а затем вторгаются в цепочки поставок своих успешных продавцов, оказывают давление на их поставщиков, заставляя копировать  трендовые или популярные продукты. Затем они продают скопированные продукты уже под своим брендом, подавляя или уменьшая присутствие исходного продавца на своей торговой платформе. Возможно, вы знаете одну из самых известных онлайн-площадок в мире, деятельность которой полностью основана на таком хищническом поведении. Но знаете ли вы, что они проделывают то же самое под своими более чем 100 карманными брендами? 
+
+*“Мы помогаем вам предотвратить попытки некоторых обратить ваши успехи в оружие против вас.“*
+
+----
+
+**Кто страдает от притеснений и ограничений в электронной коммерции?**
+
+По сей день в этом мире есть регионы, где политическое угнетение и цензура являются реальностью. Их гражданам нужно решение, которое позволило бы вести торговлю без преследований. Это можно понимать как эквивалент права человека на свободу слова.
+
+Эта проблема распространяется по всему миру и больше не ограничивается лишь странами, считающимися авторитарными. Технические гиганты подвергают цензуре отдельных лиц, предприятия или конкретный контент, который не соответствует их повестке дня, что приводит к постоянно растущему кризису свободы в интернете. Вы могли быть свидетелями этого в журналистике, политике, литературе или философии, следя за новостями. T
  
-*“We help you to buy and sell what you want, when you want it, and wherever you want, despite any resistance.“*
+*“Мы помогаем вам покупать и продавать что вы хотите, когда хотите и где хотите невзирая на какие-либо ограничения.“*
 
 ----
 
-**Who needs an e-commerce solution where no banking account is required?**
+**Кому может быть нужна электронная коммерция, не требующая банковского счета?**
 
-Believe it or not, according to the world bank, 1.7 billion adult people on planet earth are unbanked. But you can bet they are interested in doing business, especially in their local area. What’s more, using financial services that don’t rely on the banking system undoubtedly gives you the maximum level of financial independence and freedom.
+Хотите верьте, хотите нет, но по данным Всемирного банка 1,7 миллиарда взрослых людей на планете не имеют доступа к банковским услугам. Однако можно поспорить, что и они интересуются ведением бизнеса, особенно в своих регионах. Более того, использование финансовых услуг, не зависящих  от банковской системы однозначно даст вам максимальный уровень финансовой независимости и свободы. 
 
-Furthermore, traditional banking, as we know it, becomes more and more of a questionable concept. By rethinking this concept and executing the alternative, you can feel to be a part of a movement.
+Более того, традиционный банкинг, который мы знаем, становится все более и более сомнительной концепцией. Вы почувствуете себя частью движения, переосмыслив эту концепцию и реализовав альтернативу. 
 
-*“We help you to help the unbanked world and rethink the concept of banking.“*
-
-----
-
-**Who needs a backup plan for in-person deals?**
-
-It may sound surprising, but it’s far from being far-fetched. Suppose, for example, that you buy a piece of jewelry directly from a person you don’t know. This can be using Facebook Marketplace, Craigslist, or any similar local person-to-person solution. How do you make sure you don’t get scammed? How do you make sure the quality, material, or stone is as promised and not some knock-off. There are many things that can go wrong with any type of transaction.
-
-:term:`Particl Marketplace`’s unique two-party escrow system makes it possible to safely trade with anyone, online or in-person, even if you don’t know them. It replaces the simple but unsafe in-person cash-for-item exchanges and the uncertainty of transacting with a stranger without any form of leverage against them to enforce honesty. Now you can force them to put their money where their mouth is.
-
-*“We help you enforce truthful and honest trades with your business partners regardless if that’s online or in-person.“*
+*“Мы помогаем вам помочь не охваченному банковскими услугами миру, ну и переосмыслить концепцию банковского обслуживания.“*
 
 ----
 
-**Who needs a free-of-charge e-commerce solution with no operating costs?**
+**Кому нужен запасной план для личных сделок?**
 
-While other so-called “free” e-commerce marketplaces and solutions take advantage of you with a myriad of fees, and, even worse, with your data, habits, and personal information, you pay the price and end up with a substantial economic gap. For example, did you know that, depending on various factors, e-commerce platforms like Amazon can charge their sellers up to more than 40% per transaction? Don’t think that’s not reflected in retail prices!
+Это странно звучать, но это далеко не выдумка. Предположим, например, что вы покупаете ювелирное украшение у незнакомца напрямую. Это может происходить на Facebook Marketplace, Craigslist или на любой аналогичной локальной площадке. Как убедиться что вас не обманут? Как убедиться что качество, материал или камень соответствуют заявленному продавцом, а не какая-нибудь подделка? При любой сделке может быть вещей, которые могут вдруг пойти не так.
 
-On :term:`Particl Marketplace`, the absence of commissions, sales fees, subscription models, and other operating costs encourages brands, vendors, suppliers, and even small retailers with their local businesses. It allows them to thrive within an entirely self-sufficient, circular, global, and community-led economy.
+Уникальная система условного депонирования торговой площадки :term:`Particl Marketplace` дает возможность безопасной торговли с кем угодно, как онлайн так и при личной встрече, даже с незнакомцами. Она заменит вам простой, но небезопасный обмен деньги - товар при личной встрече, а также неуверенность при совершении сделок с незнакомцем, когда вы не имеете каких-либо рычагов воздействия на него чтобы гарантировать честность. Теперь вы можете заставить их положить деньги туда куда нужно. 
 
-The only operating costs you will see on :term:`Particl Marketplace` are tiny listing fees designed to fight off spam and unintentional usage. So now you’ve just found a new and beneficial sales channel for your business. Maybe it’ll become your new favorite?
-
-*“We help your business and customers get the best deals possible.“*
+*“Мы помогаем вам добиться правдивых и честных сделок от ваших партнеров, независимо происходит ли это в интернете или при личной встрече.“*
 
 ----
 
-Fair Economics
---------------
+**Кому нужна электронная коммерция бесплатно и без текущих расходов?**
 
-Driven by sensible economic motivations, customers and vendors always seek the best deals out there. Remove the corporate interest of a marketplace operator from the pricing model, and nearly anybody can see the impact it’s going to have on retail prices by doing basic maths. Now, they can both finally get what they’re looking for by participating in “just economics”.
+Несмотря на то, что другие торговые площадки либо решения для электронной коммерции называют себя «бесплатными»(для покупателя), и вы действительно там платите лишь цену за товар и, казалось бы, имеете существенную экономическую выгоду в итоге- на самом деле они просто используют вас с помощью огромного количества скрытых комиссий и, что еще хуже - используют ваши данные, привычки и личную информацию. Например, знаете ли вы что платформы электронной коммерции, такие как Amazon, в зависимости от различных факторов могут взимать со своих продавцов более 40%(в сумме) комиссий за сделку? Однако не думайте, что это никак не отражается на розничных ценах ждя вас!
 
-Retailers, merchants, and vendors, in general, looking for new target customer groups, sales channels, and revenue streams will find exactly what they’re after. They’ll be able to offer their products at ridiculously competitive prices. At the same time, they get rid of many problems usually associated with typical e-commerce solutions and payment processors. They now get near-instant and chargeback-proof payments, without any retention times, that cannot arbitrarily be held or frozen.
+Отсутствие комиссий, сборов с продаж, планов подписки, и других операционных расходов на :term:`Particl Marketplace` поддерживает бренды, продавцов, поставщиков и даже мелких розничных торговцев, ведущих локальный бизнес. Это дает им больше возможностей процветать в полностью самодостаточной, глобальной, непрерывной и управляемой сообществами экономике.
 
-The absence of operating costs makes it attractive for cooperatives to set up their own and dedicated sales channel and gain exposure from a bigger public audience, or just towards a defined local VIP group of customers.
+Единственные операционные расходы, которые вы увидите на :term:`Particl Marketplace` - это крошечная плата за листинг товаров, и то она предусмотрена для борьбы со спамом и необдуманными действиями продавцов. Итак, вы только что нашли новый и выгодный канал продаж для своего бизнеса. Возможно он станет твоим новым фаворитом?
 
-Ultimately, it’s in your best interest to lead your existing customers to understand the benefits of better prices. It lets you enjoy the full range of advantages of economic advancement as an individual, a collective, or as a business.
-
-*“We help you reduce your e-commerce costs to the absolute minimum.“*
+*“Мы помогаем вашему бизнесу и покупателям совершать максимально взаимовыгодные сделки.“*
 
 ----
 
-To Take a Stand
+Честная экономика
+-----------------
+
+Руководствуясь вполне разумными экономическими мотивами, и покупатели, и продавцы всегда ищут наилучшие предложения. Просто уберите из модели ценообразования корпоративный интерес оператора торговой площадки и практически каждый, выполнив простой расчет, сможет убедиться какое влияние это окажет на розничные цены. Теперь они оба могут наконец получить именно то что ищут, участвуя в «справедливой экономике».
+
+В общем, розничные торговцы, продавцы и поставщики, ищущие новые целевые группы клиентов, каналы продаж и источники доходов, найдут именно то что им нужно. Здесь они смогут предложить свою продукцию по смехотворно конкурентоспособным ценам. В то же время они избавятся от многих проблем, обычно имеющих место в традиционных реализациях для площадок электронной коммерции и в платежных системах. Здесь они получают почти мгновенные платежи с защитой от спорных возвратов, без каких-либо сроков перевода, без риска необоснованных задержек или несправедливой  заморозки.
+
+Отсутствие текущих расходов наверняка привлекательно для кооперативов, так как дает возможность создания отдельного специфического канала продаж и получения внимания более широкой аудитории покупателей, ну или же отдельного канала для определенной группы VIP-клиентов, например.
+
+В конечном итоге это ваша наибольший интерес чтобы дать вашим постоянным покупателям возможность ощутить все преимущества более низких цен. Затем это позволит вам, как отдельному человеку, или коллективу или компании в полной мере наслаждаться всеми бонусами экономического роста вашего бизнеса.
+
+
+*“Мы помогаем вам снизить затраты на онлайн торговлю до абсолютного минимума.“*
+
+----
+
+Займите позицию
 ---------------
 
-As you may have noticed, the world is changing. More and more people are actively starting to take a stand in various facets of society. Using :term:`Particl Marketplace` is a very efficient but effortless way to do just that.
+Возможно вы заметили - мир меняется. Все больше и больше людей начинают занимать активную позицию в различных сферах жизни общества. Использование торговой площадки :term:`Particl Marketplace` - очень эффективный и не требующий больших усилий способ сделать это.
 
-For example, the sustainability movement pays special attention to not wasting resources and protecting them. This ranges from agricultural products and their production to adequately treated and remunerated workforces.
+Например, существует некое общественное движение за устойчивое развитие. В центре их внимания борьба за то, чтобы не тратить ресурсы впустую и защищать их. И это касается различных сфер: от сельскохозяйственных продуктов и их производства до адекватного отношения и оплаты трудовых ресурсов.
 
-There are also groups like the libertarians, a reasonably sized community, having their very own interests. They seek autonomy, political freedom, self-determination and  constantly question the current economic and political systems. They care about our society, like most groups, but they have their own vision of it.
+Также существуют группы наподобие либертарианцев - довольно таки многочисленное сообщество, имеющее свои собственные интересы. Они стремятся к автономии, политической свободе, самоопределению и постоянно ставят под сомнение действующие экономические и политические системы. Они заботятся о нашем обществе как и большинство групп, однако у них свое собственное видение этого общества.
 
-The list goes on, but that wouldn’t do any group justice to put them all into one bucket. Ultimately, the common denominator relates to the concepts of abusive surveillance, censorship, monopolies, banking, and data gathering operations that prey on honest and caring people.
+Этот список можно долго продолжать, но будет справедливо выделить нечто общее для них всех. В конце концов, их общий знаменатель исходит из понятий неправомерного надзора, цензуры, монополий, банковского дела и операций по сбору данных, в результе чего страдают лишь честные и заботливые люди.
 
-You know best you don't fit into a generalized pigeonhole. All these philosophies do exist and have a right to exist. It's a good idea to do the things you do carefully and purposefully, and perhaps you'll find yourself the desire to take a stand or give back to society.
+Вам лучше знать относитесь ли вы к какой-нибудь распространенной ячейке общества. Все эти философии действительно существуют и имеют право на существование. Хорошая идея - просто делать то, что вы делаете, осторожно и целенаправленно, и возможно у вас появится желание занять некую твердую позицию и таким образом отдать дань обществу.
 
-*“We help the caring society to take a stand and to express and achieve ideas of a better, fairer world.“*
-
-----
-
-Industries and Use-cases
-------------------------
-
-* Trading goods or services in return for payments:
-	* If instant settlement of payment is needed.
-	* If counterparty risks need to be mitigated.
-	* If the risk of receiving counterfeit goods is in play.
-	* If an increased risk of non-payment (payment default) applies.
-	* If the risk of payment delays is apparent.
-	* If intermediaries (i.e., marketplace operators) take too much off the deal.
-	* If intellectual property is at stake.
-	* If security or privacy is at stake.
-	* If the total cost of commerce is too high.
-* When suppliers of goods have no cost-effective, protected, and fair access to international markets without using intermediaries.
-* Exchange of industrial goods across national borders between two parties if there is no pre-existing or limited trust between them.
-* When a distribution environment for small local stores or cooperatives and their local clientele is needed.
-* Development of consumer and community markets for the new crypto-economy and reduce friction in payments.
-* Creation of new business opportunities in international markets where local and artificial price protection on goods is in play.
-* A corporate in-house tool for displaying and retrieving any type of resources and, optionally, their billing. Mini-ERP.
-* When an individual, business, or organization gets hindered on  typical online marketplaces and needs a censorship-proof environment to pursue its operations.
-* To sell products and services that are not allowed on traditional marketplaces, such as second-hand precious metal bullions, for example.
-
-
-**These are just a few examples of who can instantly benefit from Particl Marketplace’s decentralized e-commerce model.**
-
-*Most of all, the people working on Particl would like to hear your success stories and ideas. Reach out to us! We would love to share them with the world and help you get more out of Particl Marketplace by finding more people to do business with.*
+*“Мы помогаем заботящемуся об обществе занять позицию, а также выразить и реализовать идеи о лучшем, более справедливом мире.“*
 
 ----
 
-That’s a lot to grasp, isn’t it? Keep in mind that :term:`Particl Marketplace` is a global, all-inclusive e-commerce platform that is as diverse as humankind and is open to everybody. Focus on what serves your needs and on overcoming your challenges. You will get rewarded and feel empowered like never before. Particl rapidly becomes your mantra and mindset.
+Отрасли и варианты использования 
+--------------------------------
+
+* Розничная торговля товарами или услугами:
+        * Если нужны моментальные платежи.
+        * Если нужно снизить риски контрагента.
+        * Если есть риск получения поддельных товаров.
+        * Если есть повышенный риск неплатежа (дефолт).
+        * Если риск просрочки платежа очевиден.
+        * Если посредники (то есть операторы торговых площадок) слишком много берут за услуги.
+        * Если на карту поставлена ​​интеллектуальная собственность.
+        * Если ​​безопасность или конфиденциальность под угрозой.
+        * Если общая себестоимость торговли слишком высока.
+* Когда у поставщиков товаров нет рентабельного, защищенного и справедливого доступа к международным рынкам без посредников.
+* Обмен промышленными товарами через национальные границы между двумя сторонами, между котрыми ещё нет исторически сложившегося доверия либо  доверие ограничено.
+* Когда нужна среда сбыта для небольших местных магазинов либо кооперативов, а также для их местных клиентов.
+* Развитие потребительских и общественных рынков для новой криптоэкономики и увеличение удобства платежей.
+* Создание новых возможностей для бизнеса на международных рынках где есть искусственная защита местных товаров.
+* Внутренний карманный инструмент для отображения своей торговой бухгалтерии, при необходимости - выставления счетов. Мини-ERP.
+* Когда физическое лицо, бизнес или организация сталкиваются с препятствиями на типичных онлайн-рынках и нуждаются в защищенной от цензуры среде для продолжения своей деятельности.
+* Для продажи товаров и услуг, запрещенных на традиционных рынках, например, бывших в употреблении слитков драгоценных металлов. 
+
+
+**Это всего лишь несколько примеров кто может незамедлительно получить преимущества от использования децентрализованной модели онлайн торговли  на Particl Marketplace.**
+
+*Люди, работающие над Particl больше всего хотели бы услышать ваши истории успеха и идеи. Обращайтесь к нам! Мы хотели бы поделиться ими со всем миром и помочь вам получить ещё больше от Particl Marketplace, нанаходя ещё больше партнеров для ведения бизнеса.*
+
+----
+
+Слишком уж много всего сразу для понимания, правда? Так имейте ввиду что :term:`Particl Marketplace` это глобальная всеобъемлющая платформа электронной коммерции и она настолько же разнообразна как и все человечество, и открыта для всех. Сосредоточьтесь на том, что служит вашим потребностям и преодолению ваших трудностей. Вы будете вознаграждены и станете сильным как никогда раньше. Particl быстро станет вашей мантрой и мышлением.
 
 .. admonition:: Action
 
-	Do you know other curious minds? Please invite them to participate in the discussion on the status quo of commerce, monopolies, equal opportunities, and eventually, freedom to live a life worth living for us all and our children!
+	Знаете ли вы других с любознательным умом? Пожалуйста, пригласите их обсудить статус-кво торговли, монополий, равных возможностей и наконец  свободу жить жизнью, достойной всех нас и наших детей! 
 
 ----
 
-**Keep on truckin'**
+**Следуем дальше..**
 
-You made a big leap forward. Now you understand a lot about who can benefit from :term:`Particl Marketplace` the most and the diversity of its use-cases. In the next chapter, you will get a brief overview of the nuts and bolts that make Particl possible.
+Вы сделали большой шаг вперед. Теперь вы хорошо понимаете кто может получить наибольшую пользу от :term:`Particl Marketplace` и все  разнообразие вариантов ее применения. В следующей главе мы сделаем краткий обзор всех важных частей, без которых работа Particl в целом была бы невозможна.
 
-Perhaps you want to skip that part and install it right away? Just head over to the :ref:`Installation Guides`.
+Возможно вы хотите это пропустить и перейти к установке торговой площадки прямо сейчас? Тогда перейдите сюда :ref:`Руководство по установке`.
 
 ----

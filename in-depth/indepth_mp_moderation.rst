@@ -1,6 +1,6 @@
-================================
-Marketplace Moderation Explained
-================================
+===========================
+Модерация торговой площадки
+===========================
 
 Like any online marketplace or platform, there needs to be a way for its content to be moderated. Sure, Particl is unstoppable, uncensorable, and it can't ban users. But leaving the platform without any sort of moderation mechanism would create an unspeakable number of problems.
 

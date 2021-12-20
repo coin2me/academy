@@ -1,130 +1,131 @@
-===================
-Installation Guides
-===================
+========================
+Руководство по установке
+========================
 
 .. title::
-   Particl Desktop & Marketplace Installation Guide
+   Руководство по установке Particl Desktop & Marketplace
 
 .. meta::
+   :description lang=ru: пошагово процедура установки Particl Destop & Marketplace.
    :description lang=en: step by step learn every aspect of the installation of Particl Destop & Marketplace.
    :keywords lang=en: Particl, Marketplace, Installation, Blockchain, Privacy, E-Commerce
 
-In this section, you will learn how to install :term:`Particl Marketplace`, additional software, and how to backup your data.
+В этом разделе вы узнаете как установить торговую площадку :term:`Particl Marketplace`, дополнительное програмное обеспечение и как делать резервные копии ваших данных.
 
 .. contents:: Table of Contents
    :local:
    :backlinks: none
    :depth: 2
 
-Particl Marketplace
-===================
+Торговая площадка Particl
+=========================
 
-To get started with :term:`Particl Marketplace`, you need to download and install the :guilabel:`Particl Desktop` client software. Its installation is very easy and won't take you more than a few minutes!
+Для начала работы с :term:`Particl Marketplace` вам нужно загрузить и установить клиентское ПО :guilabel:`Particl Desktop`. Процедура установки очень простая и не займет более нескольких минут!
 
-Download 
+Загрузка 
 --------
 
-Choose the correct version to download.
+Выбирите нужную вам версию:
 
 .. tabs::
 	 .. group-tab:: Windows
 
-	 	**Windows file version**
+	 	**Версии для Windows**
 
-	 	Mostly you will be fine by downloading the :file:`particl-desktop-X.X.X-win.exe` installer file. It supports any version of Windows.
+	 	В большинстве случаев будет достаточно загрузить установочный файл :file:`particl-desktop-X.X.X-win.exe`. Он поддерживает любую версию Windows.
 
-	 	**Download sources**
+	 	**Источники для загрузки**
 
-		- Particl Homepage: https://particl.io/downloads/
+		- Сайт Particl: https://particl.io/downloads/
 		- Particl Github: https://github.com/particl/particl-desktop/releases/latest
 
 		.. attention::
 
-   		 NEVER download Particl clients from 3rd party websites! Bad actors are constantly trying to distribute malware-infected versions of popular :term:`cryptocurrency <Cryptocurrency>` wallets to steal your funds! So always download from official sources only. 
+   		 НИКОГДА не загружайте клиентское ПО Particl с посторонних вебсайтов! Злоумышленники постоянно пытаются распространять зараженные вредоносным ПО копии популярных  :term:`криптовалютных <Cryptocurrency>` кошельков с целью украсть ваши деньги! Поэтому всегда загружайте только из официальных источников. 
 
 	 .. group-tab:: Mac
 
-	 	**MacOS file version**
+	 	**Версии для MacOS**
 
-	 	Mostly you will be fine by downloading the :file:`particl-desktop-X.X.X-mac.dmg` installer image. It supports any version of MacOS, including 10.15 (Catalina) or greater.
+	 	В большинстве случаев будет достаточно загрузить установочный файл :file:`particl-desktop-X.X.X-mac.dmg`. Сайт Particl: MacOS, включая 10.15 (Catalina) или выше.
 
-	 	**Download sources**
+	 	**Источники для загрузки**
 
-		- Particl Homepage: https://particl.io/downloads/
+		- Сайт Particl: https://particl.io/downloads/
 		- Particl Github: https://github.com/particl/particl-desktop/releases/latest
 
 		.. attention::
 
-   		 NEVER download Particl clients from 3rd party websites! Bad actors are constantly trying to distribute malware-infected versions of popular :term:`cryptocurrency <Cryptocurrency>` wallets to steal your funds! So always download from official sources only. 
+   		 НИКОГДА не загружайте клиентское ПО Particl с посторонних вебсайтов! Злоумышленники постоянно пытаются распространять зараженные вредоносным ПО копии популярных  :term:`криптовалютных <Cryptocurrency>` кошельков с целью украсть ваши деньги! Поэтому всегда загружайте только из официальных источников. 
 
 	 .. group-tab:: Linux
 
-	 	**Linux file version**
+	 	**Версии для Linux version**
 
-	 	Depending on your Linux distribution, you can choose between different packages, including Debian-based :file:`.deb`, :file:`.rpm` packages, a distribution independent :file:`.AppImage` version. 
+	 	В зависимости от вашего дистрибутива Linux вы можете выбирать между различными пакетами, включая пакеты на базе Debian :file:`.deb`, или пакеты :file:`.rpm`, или независимую от дистрибутива :file:`.AppImage` версию. 
 
-	 	Once you know which Linux distribution you are running, it's straightforward to find out which package manager you have and which package will suit you. The distribution independent :file:`.AppImage` file will make your installation experience a blast.
+	 	Зная какой дистрибутив Linux вы используете, будет легко определить ваш менеджер пакетов и какой файл вам подойдет. Независимая от дистрибутива :file:`.AppImage` версия сделает установку очень быстро.
 
-	 	**Download sources**
+	 	**Источники для загрузки**
 
-		- Particl Homepage: https://particl.io/downloads/
+		- Сайт Particl: https://particl.io/downloads/
 		- Particl Github: https://github.com/particl/particl-desktop/releases/latest
 
 		.. attention::
 
-   		 NEVER download Particl clients from 3rd party websites! Bad actors are constantly trying to distribute malware-infected versions of popular :term:`cryptocurrency <Cryptocurrency>` wallets to steal your funds! So always download from official sources only. 
+   		 НИКОГДА не загружайте клиентское ПО Particl с посторонних вебсайтов! Злоумышленники постоянно пытаются распространять зараженные вредоносным ПО копии популярных  :term:`криптовалютных <Cryptocurrency>` кошельков с целью украсть ваши деньги! Поэтому всегда загружайте только из официальных источников. 
 
-Installation process
---------------------
+Процесс установки
+-----------------
 
 .. tabs::
 	 .. group-tab:: Windows
 
- 		**Windows installation**
+ 		**Установка для Windows**
 
  		.. rst-class:: bignums
 
-	 		#. :ref:`Verify the checksum <Checksum verification>` of the file.
-	 		#. Open the downloaded :guilabel:`particl-desktop-X.X.X-win.exe` installer file.
-	 		#. Follow the installation instructions
-	 		#. An executable file will be added to your desktop and into the application launcher menu. Use this to start :term:`Particl Desktop`.
-	 		#. Assign allow-rules to your computer`s firewall and antivirus software. On a standard Windows installation, :guilabel:`Microsoft Defender` pops up.
+	 		#. :ref:`Проверьте контрольную сумму загруженного файла <Проверка контрольной суммы>`.
+	 		#. Запустите загруженный установщик :guilabel:`particl-desktop-X.X.X-win.exe`.
+	 		#. Следуйте его инструкциям
+	 		#. Иконки приложения будут добавлены на рабочий стол и в меню запуска приложений. Используйте их для старта :term:`Particl Desktop`.
+	 		#. Добавьте разрешения в свой брандмауэр и антивирусные программы. В стандартных инсталляциях Windows обычно используется всплывающее окно :guilabel:`Microsoft Defender`.
 
-	 		Ignoring step 5 might cause a degraded blockchain sync experience and everything takes longer than expected or might cause communications problems. If you are unsure how to apply rules to your firewall and anti-virus software, please review the vendor's documentation of your installed programs.
+	 		Игнорирование 5го шага может ухудшить процесс синхронизации блокчейна и он займет больше времени чем обычно, или же  может вызвать проблемы с соединением. Если вы не знаете как устанавливать разрешения для своего брандмауэра и антивирусного ПО - просмотрите документацию поставщика установленных у вас программ.
 
 	 .. group-tab:: Mac
 
-	 	**MacOS installation**
+	 	**Установка для MacOS**
 
 	 	.. rst-class:: bignums
 
-	 		#. :ref:`Verify the checksum <Checksum verification>` of the file.
-	 		#. Open the downloaded :guilabel:`particl-desktop-X.X.X-mac.dmg` installer image by pressing :kbd:`CONTROL` + :kbd:`MOUSE-RIGHT ◳` and click :guilabel:`Open` from the appearing shortcut menu. *Do not just double-click the icon.*
-	 		#. Drag and drop the :term:`Particl Desktop.app <Particl Desktop>` file into the :guilabel:`Applications` folder. 
-	 		#. Open the :guilabel:`Applications` folder and locate the :term:`Particl Desktop.app <Particl Desktop>` file. 
-	 		#. Press :kbd:`CONTROL` + :kbd:`MOUSE-RIGHT ◳` on the :term:`Particl Desktop.app <Particl Desktop>` file and click :guilabel:`Open`.
-	 		#. On the first launch, your computer's firewall must get a rule to allow Particl Desktop to communicate with the blockchain. 
+	 		#. :ref:`Проверьте контрольную сумму загруженного файла <Проверка контрольной суммы>`.
+	 		#. Запустите загруженный установщик :guilabel:`particl-desktop-X.X.X-mac.dmg` нажатием :kbd:`CONTROL` + :kbd:`MOUSE-RIGHT ◳` и кликнув :guilabel:`Open` в появившемся контекстном меню. *Не кликайте по иконке дважды.*
+	 		#. Перетащите файл :term:`Particl Desktop.app <Particl Desktop>` в папку :guilabel:`Applications`. 
+	 		#. Откройте папку the :guilabel:`Applications` и найдите файл :term:`Particl Desktop.app <Particl Desktop>`. 
+	 		#. Нажмите :kbd:`CONTROL` + :kbd:`MOUSE-RIGHT ◳` на :term:`Particl Desktop.app <Particl Desktop>` и затем кликните  :guilabel:`Open`.
+	 		#. При первом запуске брандмауэр вашего устройства должен получить правило, разрешающее Particl Desktop взаимодействовать с блокчейном. 
 
-	 	From now on you will be able to start :term:`Particl Desktop` from the Launchpad or Spotlight (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE` and type "Particl" > hit :kbd:`ENTER ↵`) search.
+	 	С этого момента вы можете запускать :term:`Particl Desktop` из Launchpad или из поиска Spotlight (т.е. :kbd:`COMMAND ⌘` + :kbd:`SPACE` или набрав "Particl" > hit :kbd:`ENTER ↵` соответственно).
 
 	 .. group-tab:: Linux
 
-	 	**Linux installation**
+	 	**Установка для Linux**
 
 	 	.. rst-class:: bignums
 
-	 		#. :ref:`Verify the checksum <Checksum verification>` of the file.
-	 		#. Navigate to where you've downloaded your installer file in the terminal.
+	 		#. :ref:`Проверьте контрольную сумму загруженного файла <Проверка контрольной суммы>`.
+	 		#. В терминале перейдите в папку, в которую вы загрузили файл установки.
 
-	 		#. *Depending on your package manager, this command will vary.*
+	 		#. *Следующая команда отличается в зависимости от вашего менеджера пакетов*
 
-	 			**Debian-based installation**
+	 			**Установка Debian**
 
 	 			.. code-block:: bash
 
 	 				sudo apt install particl-desktop-x.x.x-linux.deb
 
-				**RPM-based installation** 
+				**Установка RPM** 
 
 	 			.. code-block:: bash
 
@@ -137,13 +138,13 @@ Installation process
 	 				chmod a+x particl-desktop-x.x.x-linux.AppImage
 	 				./particl-desktop-x.x.x-linux.AppImage
 
-	 		#. On the first launch, your computer’s firewall must get a rule to allow Particl Desktop to communicate with the blockchain.
+	 		#. При первом запуске брандмауэр вашего устройства должен получить правило, разрешающее Particl Desktop взаимодействовать с блокчейном.
 
-	 		An application launcher will be added your applications menu when using :file:`.deb` or :file:`.rpm` installations. Click it to start the :term:`Particl Desktop` client.
+	 		Иконка запуска приложения будет добавлена в меню приложений при использовании установок .deb или .rpm. Щелкните ее  чтобы запустить клиент :term:`Particl Desktop`.
 
 	 	.. tip::
 
-	 		If you want to launch it from the terminal, quotation marks may be required because there is a space in the name (Particl Desktop).
+	 		Если вы захотите запустить клиент из терминала то имя Particl Desktop нужно заключить в кавычки, т.к. оно содержит пробел.
 
 			.. code-block:: bash
 	
@@ -155,137 +156,137 @@ Installation process
 
 .. rst-class:: achievement
 
-	Congratulations! You have installed :term:`Particl Marketplace`.
+	Поздравляем! Вы установили :term:`Particl Marketplace`.
 
 .. hint::
 
-	**Loading and Syncing Times**
+	**Время загрузки и синхронизации**
 
-	Because the :term:`Particl Marketplace`'s content is hosted on distributed Networks for payments and  exchange, the marketplace may take a few minutes to sync. It may take even a few more minutes to load all marketplace listings fully. This is to be normally expected and will get much faster as the Particl team improves the marketplace.
+	Так как все данные :term:`Particl Marketplace` размещаются в распределенной сети, то потребуется несколько минут для синхронизации прежде чем вы сможете совершать платежи и сделки. Также, возможно потребуется ещё несколько минут для загрузки всех объявлени торговой площадки. Это нормально ожидаемое время, но в будущем эти процессы будут происходить быстрее по мере совершенствования торговой площадки командой Particl.
 
-Checksum verification
----------------------
+Проверка контрольной суммы
+--------------------------
 
-Obtain the checksum code from the official download sources for the downloaded file. Each file has its own checksum. 
+Код контрольной суммы можно получить из официальных источников загрузки файлов. У каждого файла своя контрольная сумма.
 
-Being your own bank with blockchain-related products shifts some responsibilities to you. One of them is to take security seriously. Please make sure that the file you've downloaded isn't compromised in any way by verifying its checksum.
-
+Возможность быть самому себе банком, при этом работая с блокчейн-продуктами, также накладывает на вас и некоторые обязанности. Одна из них - это серьезно относиться к собственной безопасности. Пожалуйста, убедитесь что загруженные вами файлы не были каким-либо образом скомпроментированы, проверив их контрольную сумму.
+  
 .. tabs::
 	 .. group-tab:: Windows
 
-	 	**Checksum verification command with terminal**
-
+                **Команда проверки контрольной суммы в терминале**
+ 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Windows Explorer`
-	 		#. Press :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳` on the Download folder and choose :guilabel:`Open command window here` or :guilabel:`Open power shell here`.
-	 		#. Type the following command into the terminal while changing :file:`filename` for the real and complete filename of the downloaded file and hit :kbd:`ENTER ↵`.
+	 		#. Откройте :guilabel:`Проводник Windows`
+	 		#. Перейдите в папку загрузок и нажмите :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳`, далее выберите :guilabel:`Открыть командное окно` или :guilabel:`Открыть командную оболочку(powershell)`.
+	 		#. Наберите в терминале следующую команду, заменив :file:`имя файла` на реальное и полное имя загруженного вами файла, и нажмите :kbd:`ENTER ↵`.
 
 	 			.. code-block:: bash
 
-	 				CertUtil -hashfile filename SHA256
+	 				CertUtil -hashfile имя файла SHA256
 
 	 .. group-tab:: Mac
 
-	 	**Checksum verification command with terminal**
+	 	**Команда проверки контрольной суммы в терминале**
 
 	 	.. tip::
-	 		**Prerequisite**: Head into :guilabel:`System Preferences` and select :guilabel:`Keyboard` > :guilabel:`Shortcuts` > :guilabel:`Services`. Find :guilabel:`New Terminal at Folder` in the settings and enable the checkbox.
+	 		**Предварительно**: Зайдите в :guilabel:`System Preferences` и выберите :guilabel:`Keyboard` > :guilabel:`Shortcuts` > :guilabel:`Services`. Найдите :guilabel:`New Terminal at Folder` в настройках и отметьте птичкой.
 
 		.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Finder`
-	 		#. Press :kbd:`MOUSE-RIGHT ◳` on the Download folder of the file and you're shown the :guilabel:`services` > :guilabel:`open terminal` command to open the terminal at this location. 
-			#. Type the following command into the terminal while changing :file:`filename` for the real filename of the downloaded file.
+	 		#. Откройте :guilabel:`Finder`
+	 		#. Перейдите в папку, в которую был загружен файл, нажмите :kbd:`MOUSE-RIGHT ◳` и вы увидите опцию :guilabel:`services` > :guilabel:`open terminal` для открытия терминала из этой локации. 
+			#. Наберите в терминале следующую команду, заменив :file:`имя файла` на реальное имя загруженного файла.
 
 				.. code-block:: bash
 
-					shasum -a 256 filename
+					shasum -a 256 имя файла
 
 	 .. group-tab:: Linux
 
-	 	**Checksum verification command with terminal**
+	 	**Команда проверки контрольной суммы в терминале**
 
 	 	.. rst-class:: bignums
 
-	 		#.  Open a terminal in the Download-folder of the file and type the following command by changing :file:`filename` for the real filename of the downloaded file. 
+	 		#.  Откройте терминал из в папки, в которую был загружен файл и наберите в терминале следующую команду, заменив :file:`имя файла` на реальное имя загруженного файла.
 	 	
 	 			.. code-block:: bash
 
-	 				sha256sum filename
+	 				sha256sum имя файла
 
-Once that is done, compare the checksum output you've received in the step above with the checksum stated in the official download sources. The screenshot below shows you an example of this checksum highlighted from the GitHub release notes :guilabel:`Verification` section.
+Как только это сделано, сравните контрольную сумму, полученную в результате описанных выше действий с контрольной суммой, указанной на  официальном источнике загрузок. На скриншоте ниже показан пример поиска этой контрольной суммы(выделено) в разделе :guilabel:`Verification`   репозитория GitHub.
 
 .. figure:: ../_static/media/images/mp_installation_github_checksum_verification.png
     :align: center
-    :alt: Particl Marketplace installation checksum highlighted image
+    :alt: Контрольная сумма для установки Particl Marketplace
     :target: ../_static/media/images/mp_installation_github_checksum_verification.png
 
-    Particl Marketplace installation checksum highlighted image
+    Контрольная сумма для установки Particl Marketplace
 
-**Troubleshooting checksum mismatch**
+**Решение проблемы при несовпадении контрольной суммы**
 
-If the output does not match, try to download the file again. Verify that you did not unzip or rename the file. In some cases, it might be possible that antivirus software may alter files, be sure to have a solution on your own in that case.
+Если результат не совпал - попробуйте загрузить файл ещё раз по новой. Также убедитесь что вы его не переименовывали и не разархивировали. Иногда может может быть и так, что ваш антивирус как-то изменяет копируемые файлы - в этом случае найдите свое собственное решение как это отключить.
 
 .. attention::
 	
-	If all attempts fail to have a matching number, do not install :term:`Particl Desktop` unless you know what you are doing and try to reach out to :doc:`Particl Support <../faq/get_support>` for assistance. 
+	Если все попытки получить совпадающий номер оказались безуспешны - не устанавливайте :term:`Particl Desktop`, кроме случаев когда вы полностью осознаете что делаете, и попробуйте обратиться в :doc:`службу поддержки Particl <../faq/get_support>` за помощью. 
 
-Starting Particl Desktop
-------------------------
+Запуск Particl Desktop
+----------------------
 
-You have two options: startup with the launcher icon (recommended) or a terminal command.
+У вас есть два возможных варианта: запуск кликом по иконке(рекомендуется) в меню приложений или командой в терминале.
 
-Startup with Launcher
-~~~~~~~~~~~~~~~~~~~~~
+Запуск из меню приложений 
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. tabs::
 
 	.. group-tab:: Windows
 
-	 	**Launching Particl Desktop with Launcher**
+	 	**Запуск Particl Desktop из панели приложений**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open your :guilabel:`Start Menu` by pressing :kbd:`WIN ⊞` Key
-	 		#. Start typing :code:`Particl`
-	 		#. Click on the :term:`Particl Desktop` launcher icon.
+	 		#. Откройте :guilabel:`Меню Пуск` нажатием кнопки :kbd:`WIN ⊞`
+	 		#. Начните набирать слово :code:`Particl`
+	 		#. Кликните по иконке запуска :term:`Particl Desktop`.
 
 	.. group-tab:: Mac
 
-	 	**Launching Particl Desktop with Launcher**
+	 	**Запуск Particl Desktop из панели приложений**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Spotlight` (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE`) 
-	 		#. Type :code:`Particl`
-	 		#. Click on the :term:`Particl Desktop` launcher icon.
+	 		#. Откройте :guilabel:`Spotlight` (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE`) 
+	 		#. Наберите :code:`Particl`
+	 		#. Кликните по иконке запуска :term:`Particl Desktop`.
 
 	.. group-tab:: Linux
 
-	 	**Launching Particl Desktop with Launcher**
+	 	**Запуск Particl Desktop из панели приложений**
 
 	 	.. rst-class:: bignums
 	 	
-	 		#. Open your applications menu
-	 		#. Click on :term:`Particl Desktop` launcher icon
+	 		#. Откройте меню приложений.
+	 		#. Кликните по иконке запуска :term:`Particl Desktop`.
 
-Startup from Terminal
-~~~~~~~~~~~~~~~~~~~~~
+Запуск из терминала
+~~~~~~~~~~~~~~~~~~~
 
-Sometimes it is handy to start :term:`Particl Marketplace` from the terminal, aka command line. It gives you plenty of output and information about what is happening in the background.
+Иногда бывает удобно запускать :term:`Particl Marketplace` из терминала, в режиме командной строки. Это дает вам вывод на экран множества  полезной информации о том, что происходит в фоновом режиме.
 
 .. tabs::
 
 	.. group-tab:: Windows
 
-	 	**Launching Particl Desktop from terminal**
+	 	**Запуск Particl Desktop из терминала**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Windows Explorer`
-	 		#. Press :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳` on the Installation folder (e.g., :file:`C:\/Program Files\/Particl`) and choose :guilabel:`Open command window here` or :guilabel:`Open power shell here`.
-	 		#. Type the following command into the terminal and hit :kbd:`ENTER ↵`.
+	 		#. Откройте :guilabel:`Проводник Windows`
+	 		#. Нажмите :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳` в папке приложения(т.е. :file:`C:\/Program Files\/Particl`) и выбирите :guilabel:`Открыть командное окно ` или :guilabel:`Открыть командную оболочку`.
+	 		#. Введите следующую команду в терминале и нажмите :kbd:`ENTER ↵`.
 
 	 			.. code-block:: bash
 
@@ -293,12 +294,12 @@ Sometimes it is handy to start :term:`Particl Marketplace` from the terminal, ak
 
 	.. group-tab:: Mac
 
-	 	**Launching Particl Desktop from terminal**
+	 	**Запуск Particl Desktop из терминала**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Terminal` (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE` and type "terminal" > hit :kbd:`ENTER ↵`)
-	 		#. Type in this command:
+	 		#. Откройте :guilabel:`Terminal` (т.е. :kbd:`COMMAND ⌘` + :kbd:`SPACE` и введите "terminal" > нажать :kbd:`ENTER ↵`)
+	 		#. Введите эту команду:
 
 				.. code-block:: bash
 
@@ -306,30 +307,30 @@ Sometimes it is handy to start :term:`Particl Marketplace` from the terminal, ak
 
 	.. group-tab:: Linux
 
-	 	**Launching Particl Desktop from terminal**
+	 	**Запуск Particl Desktop из терминала**
 
 	 	.. rst-class:: bignums
 	 	
-	 		#. Open a terminal in the folder where you've installed :term:`Particl Desktop` and type the following command.
+	 		#. Откройте терминал из папки, в которой установлен :term:`Particl Desktop` и введите следующую команду:
 		
 				.. code-block:: bash
 
 					./Particl\ Desktop
 
-Backup Account and Data
-=======================
+Резервная копия учетной записи и данных
+=======================================
 
-File locations
---------------
+Расположение файлов
+-------------------
 
-After a successful installation of :term:`Particl Desktop`, the main application has been installed into the standard location of your operating system. Once the :term:`Particl Desktop` is run the first time, it will create user-specific data within your user account. These include settings, log files, wallets, and the blockchain data itself. From time to time, it is a reasonable measure to backup these data to an encrypted external resource.
+При успешной установке :term:`Particl Desktop` само главное приложение будет размещено в определенной стандартной папке вашей операционной системы. Кроме этого, при первом запуске :term:`Particl Desktop` создаст некоторые определенные пользовательские данные для вашей учетной записи. Это включает в себя  различные настройки, файлы логов, кошельки и данные блокчейна. Будет очень разумно периодически делать резервную копию всех этих данных и сохранять ее на внешнем носителе в зашифрованном виде.
 
 .. tabs::
 	 .. group-tab:: Windows
 
 	 	.. code-block:: bash
 
-	 		## Windows paths
+	 		## Папки Windows
 
 	 		"%UserProfile%\AppData\Roaming\Particl"
 			"%userprofile%\AppData\Roaming\particl-bot"
@@ -341,7 +342,7 @@ After a successful installation of :term:`Particl Desktop`, the main application
 
 	 	.. code-block:: bash
 
-	 		## MacOS paths
+	 		## Папки MacOS
 
 	 		"~/Library/Application Support/Particl"
 			"~/Library/Application Support/particl-bot"
@@ -352,80 +353,80 @@ After a successful installation of :term:`Particl Desktop`, the main application
 
 	 	.. code-block:: bash
 
-	 		## Linux paths
+	 		## Папки Linux
 
 	 		"~/.particl"
 			"~/.particl-bot"
 			"~/.particl-market"
 			"~/.config/particl-desktop"
 
-			## Launcher path
+			## Иконка запуска
 
 			"/opt/Particl Desktop/Particl Desktop"
 
 .. seealso::
 
- Other sources for useful or more in-depth information:
+ Другие источники полезной или более углубленной информации:
 
- - Particl Wiki - `Backup & Restore wallet <https://particl.wiki/tutorial/security/backup-restore-wallet/>`_
+ - Particl Вики - `Резервное копирование и восстановление кошелька <https://particl.wiki/tutorial/security/backup-restore-wallet/>`_
 
-Install Tor (Network Privacy)
-=============================
+Установка Tor (Конфиденциальность в интернете)
+==============================================
 
 .. danger::
 	
-	Always make sure your :term:`Tor` is up-to-date with the latest version. This is a critical requirement that, if not followed, can heavily compromise your online privacy and potentially let other people spy on your online activity.
+	Всегда следите чтобы ваш :term:`Tor` был обновлен до последней версии. Это важное требование, несоблюдение которого может серьезно навредить вашей конфиденциальности в интернете и потенциально дать возможность другим людям шпионить за вашей деятельностью онлайн.
 
-The *only* privacy setting not turned on by default is the ability to keep your IP address anonymous when using Particl. This is done by routing your client's connection through Tor, a networking protocol designed to anonymize your IP address.
+Единственная настройка конфиденциальности, не включенная по умолчанию - это возможность сохранять анонимность вашего IP-адреса при использовании Particl. Это делается путем маршрутизации соединения вашего клиента через Tor - сетевой протокол, предназначенный для анонимизации вашего IP-адреса.
 
 .. attention::
 	
-	:term:`Tor` isn't enabled by default on Particl because it requires extra care from you to be truly safe. It's a network that runs independently from Particl on your computer and needs you to keep critical security considerations in mind. 
+	:term:`Tor` не включен по умолчанию на Particl потому что он требует от вас особого внимания чтобы быть по-настоящему безопасным. Эта сеть работает на вашем компьютере независимо от Particl и это требует от вас понимания основных моментов безопасности. 
 
-Install and Run Tor
--------------------
+Установка и запуск Tor
+----------------------
 
-To make sure you don't download a compromised version of Tor, always make sure to download it from their official website. What good would updating :term:`Tor` do to you if it lets the door wide open to hackers? 
+Всегда загружайте Tor только с их официального сайта, для уверенности в том, что вам не попадется какая-нибудь взломанная версия. А иначе что ж  будет хорошего, если установив :term:`Tor`, вы лишь широко распахнете двери для хакеров? 
 
-To avoid any `man-in-the-middle-attack <https://en.wikipedia.org/wiki/Man-in-the-middle_attack>`_, always verify the cryptographic signature of the :term:`Tor` files you download, even if it's from Tor's official website.
+Для предотвращения `атаки посредника <https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0>`_ всегда проверяйте криптографические подписи загружаемых файлов даже если они находятся на официальном сайте :term:`Tor`.
 
-To do so, follow this tutorial on `how to verify Tor signatures <https://support.torproject.org/tbb/how-to-verify-signature/>`_ written by the :term:`Tor` team itself.	
+Чтобы сделать это правильно - следуйте руководству этому руководству, написанному непосредственно командой :term:`Tor`: `Как проверить подписи  Tor <https://support.torproject.org/tbb/how-to-verify-signature/>`_ .	
 
-The :term:`Tor` network can be installed using three different methods. Always make sure that, regardless of the installation method you choose, :term:`Tor` is running the latest version before using it.
+Сеть :term:`Tor` можно установить тремя разными способами. Но, независимо от выбранного вами метода, перед использованием всегда удостоверьтесь что у вас самая последняя версия  :term:`Tor`.
 
-Using the Tor Browser
-~~~~~~~~~~~~~~~~~~~~~
+Использование браузера Tor
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. rst-class:: bignums
 
-	#. Download the `Tor Browser <https://www.torproject.org/download/>`_ and install it on your computer.
-	#. Launch the :term:`Tor` Browser.
-	#. Connect to the :term:`Tor` network by clicking on :guilabel:`Connect` or configure your connection parameters by clicking on :guilabel:`Configure`.
-	#. Once connected, leave the :term:`Tor` Browser running in the background of your computer.
+	#. Загрузите и установите `Tor браузер <https://www.torproject.org/download/>`_ .
+	#. Запустите :term:`Tor` браузер.
+	#. Соединитесь с сетью :term:`Tor`, кликнув кнопку :guilabel:`Connect`, или же - можно настроить параметры вашего соединения, кликнув :guilabel:`Configure`.
+	#. После соединения оставьте :term:`Tor` браузер работать в фоновом режиме.
 
 
-Using the Tor daemon
-~~~~~~~~~~~~~~~~~~~~
+Использование демона Tor
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. tabs::
 
 	.. group-tab:: Windows
 
-		**Run Tor daemon**
+		**Запуск демона Tor**
 
 		.. rst-class:: bignums
 
-	 		#. Download the `Tor Browser <https://www.torproject.org/download/>`_ and install it on your computer.
-	 		#. Open :guilabel:`Windows Explorer` and navigate to the :term:`Tor` installation directory (e.g., :file:`C:\/Program Files\/Tor Browser`).
-			#. Go into the :file:`Tor` directory, hold down :kbd:`SHIFT ⇧` and click with :kbd:`MOUSE-RIGHT ◳`.
-			#. Open :guilabel:`Open command window here` from the menu.
-			#. In the terminal that pops up, type:
+	 		#. Загрузите и установите `Tor браузер <https://www.torproject.org/download/>`_ .
+	 		#. Откройте :guilabel:`Проводник Windows` и перейдите в папку, в которой установлен :term:`Tor` (обычно это :file:`C:\/Program Files\/Tor Browser`).
+			#. Находясь в папке :file:`Tor`, удерживайте нажатой кнопку :kbd:`SHIFT ⇧` на клавиатуре и кликните правой кнопкой мыши :kbd:`MOUSE-RIGHT ◳`.
+			#. Выберите в меню :guilabel:`Открыть командное окно здесь`.
+			#. В появившемся терминале наберите команду:
 
 				.. code-block:: bash
 
 					tor.exe –service install
 
-			#. Verify that :term:`Tor` service is running, type: 
+			#. Для проверки что служба :term:`Tor` запущена введите: 
 			
 				.. code-block:: bash
 
@@ -433,11 +434,11 @@ Using the Tor daemon
 
 	.. group-tab:: Mac
 
-	 	**Using the Tor daemon**
+	 	**Запуск демона Tor**
 
 	 	.. tip:: 
 
-	 		If not already in place install homebrew. Put this code into the terminal.
+	 		Установите Homebrew если он ещё не установлен. Для установки введите этот код в терминале:
 
 	 		.. code-block:: bash 
 
@@ -447,13 +448,13 @@ Using the Tor daemon
 
 		.. rst-class:: bignums
 
-			#. Install the :term:`Tor` daemon with homebrew by typing:
+			#. Установите демона :term:`Tor` используя Homebrew, введите:
 
 				.. code-block:: bash
 
 					brew install tor
 
-			#. Enable :term:`Tor` as a Brew service by typing:
+			#. Сделайте :term:`Tor` службой Brew, введите:
 
 				.. code-block:: bash
 
@@ -461,70 +462,70 @@ Using the Tor daemon
 
 	.. group-tab:: Linux
 
-	 	**Using the Tor daemon**
+	 	**Запуск демона Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open a :guilabel:`Terminal`
-			#. Install the :term:`Tor` daemon by typing:
+	 		#. Откройте :guilabel:`терминал`
+			#. Установите демона :term:`Tor`, введите:
 
 				.. code-block:: bash 
 
 					sudo apt install tor
 
-			#. Make sure :term:`Tor` launches on startup by typing: 
+			#. Установите запуск :term:`Tor` при загрузке системы, введите: 
 
 				.. code-block:: bash
 
 					sudo systemctl enable tor
 
-Using Tor as a Hidden Service
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Использование Tor как скрытой службы
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On Linux, you can also run :term:`Tor` as a hidden service and connect your :term:`Particl Desktop` to it. This allows other people to use your :term:`node <Node>` as an entry or exit point, making the :term:`Tor` network more :term:`decentralized <Decentralization>` and private.
+В Linux вы также можете запустить :term:`Tor` как скрытую службу и связать ее с :term:`Particl Desktop`. Такой способ позволит другим людям использовать ваш :term:`узел <Node>` как точку входа или выхода, тем самым делая сеть :term:`Tor` еще более :term:`децентрализованной <Decentralization>` и конфиденциальной.
 
 .. rst-class:: bignums
 
-	#. Open a :guilabel:`Terminal` and install the :term:`Tor` network by typing: 
+	#. Откройте a :guilabel:`терминал` и установите сеть :term:`Tor`, введя команду: 
 	
 		.. code-block:: bash
 
 			sudo apt-get install tor
 
-	#. Define that you want to use :term:`Tor` as a hidden service by modifying the :term:`Tor` config file. To do so, type: 
+	#. Установите использование :term:`Tor` как скрытой службы, изменив настройки в файле конфигурации :term:`Tor`. Чтобы это сделать, введите команду: 
 
 		.. code-block:: bash
 
 			sudo nano /etc/tor/torrc
 
-		In the config file, add these two lines:
+		В открывшийся файл конфигурации добавьте эти две строки:
 
 		.. code-block:: bash
 
 			HiddenServiceDir /var/lib/tor/particl-service/
 			HiddenServicePort 51738 127.0.0.1:51738
 
-		Save and exit the nano file editor by pressing :kbd:`CTRL+c`, then type :kbd:`y` followed by :kbd:`ENTER ↵` to save the changes.
+		Сохраните файл и выйдите из редактора nano, для этого нажмите :kbd:`CTRL+c`, затем введите :kbd:`y` и нажмите :kbd:`ENTER ↵` для сохранения изменений.
 
-	#. Restart :term:`Tor` by typing into the terminal 
+	#. Перезапустите :term:`Tor` введя в терминале: 
 	
 		.. code-block:: bash
 		
 			sudo service tor restart
 
-	#. Find your hidden service’s IP address (.onion) by typing (For the purpose of this tutorial, we'll refer to this address as :code:`[yourexternalip].onion`):
+	#. Найдите IP адрес(.onion) вашей скрытой службы (в этом руководстве далее мы будем называть этот адрес как :code:`[yourexternalip].onion`). Для этого введите:
 	
 		.. code-block:: bash
 
 			sudo cat /var/lib/tor/particl-service/hostname
 
-	#. Modify your Particl config file to route its connection through your hidden service by typing: 
+	#. Измените файл конфигурации Particl, чтобы маршрутизировать его соединение через скрытую службу, введите: 
 
 		.. code-block:: bash
 
 			touch ~/.particl/particl.conf && nano ~/.particl/particl.conf
 
-		Then add these lines to the file and don`t forget to set :code:`yourexternalip.onion` 
+		Затем добавьте эти строки в файл и не забудьте указать свой :code:`yourexternalip.onion` 
 
 		.. code-block:: bash
 	
@@ -544,34 +545,34 @@ On Linux, you can also run :term:`Tor` as a hidden service and connect your :ter
 			bind=127.0.0.1:51738
 			maxconnections=30
 
-		Save and exit the nano file editor by pressing :kbd:`CTRL` + :kbd:`c`, then type :kbd:`y` followed by :kbd:`ENTER ↵` to save the changes.
+		Сохраните файл и выйдите из редактора nano, для этого нажмите :kbd:`CTRL+c`, затем введите :kbd:`y` и нажмите :kbd:`ENTER ↵` для сохранения изменений.
 
-Enable Tor on Particl
----------------------
+Включить Tor на Particl
+-----------------------
 
-All you need to do to enable :term:`Tor` on Particl is to launch :term:`Particl Desktop` with the proper instructions. Either you add a special argument to the command you use to launch Particl, or you make it a permanent setting.
+Все, что вам нужно сделать для включения :term:`Tor` на Particl - это запустить :term:`Particl Desktop` с правильными настройками. Можно или добавить специальный параметр в команду, используемую для запуска Particl, или же сделать постоянные настройки.
 
-Enable by default from GUI
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. rst-class:: bignums
-
-	#. Open :term:`Particl Desktop` and click on :guilabel:`Particl Desktop Settings` in the bottom left corner
-	#. Go to :guilabel:`Core network connection` and put into the :guilabel:`Connect via Proxy` field :code:`127.0.0.1:9150`
-	#. Hit :guilabel:`Save changes` and restart :term:`Particl Desktop`
-
-Enable by default from commandline
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Включить по умолчанию в GUI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. rst-class:: bignums
 
-	#. Open the configuration file: 
+	#. Запустите :term:`Particl Desktop` и кликните :guilabel:`Particl Desktop Settings`, в левом нижнем углу
+	#. Зайдите в :guilabel:`Core network connection` и в поле :guilabel:`Connect via Proxy` введите: :code:`127.0.0.1:9150`
+	#. Нажмите :guilabel:`Save changes` и перезапустите :term:`Particl Desktop`
+
+Включить по умолчанию в CLI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. rst-class:: bignums
+
+	#. Откройте файл конфигурации: 
 
 		.. code-block:: bash
 
 			nano ~/.particl/particl.conf
 
-	#. Add this line to the configuration file:
+	#. Добавьте эту строку в файл:
 
 		.. code-block:: bash
 
@@ -579,21 +580,21 @@ Enable by default from commandline
 
 .. note::
 
-	From now on, :term:`Particl Desktop` will try to connect with the settings you made. That means if :guilabel:`Tor` is not running on your machine, then :term:`Particl Desktop` has no access to the internet.
+	С этого момента :term:`Particl Desktop` будет пытаться установить интернет соединение, используя эти параметры. Это означает, что если :guilabel:`Tor` не будет запущен на вашем компьютере, то и :term:`Particl Desktop` не будет иметь доступа к интернету.
 
-Enable with terminal startup
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Включить при запуске из терминала
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. tabs::
 
 	.. group-tab:: Windows
 
-	 	**Launching Particl With Tor**
+	 	**Запуск Particl с Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Windows Explorer` and press :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳` on the Installation folder (e.g., :file:`C:\/Program Files\/Particl`) and choose :guilabel:`Open command window here` or :guilabel:`Open power shell here`.
-	 		#. Type the following command into the terminal and hit :kbd:`ENTER ↵`.
+                        #. Откройте :guilabel:`Проводник Windows` и нажмите :kbd:`SHIFT ⇧` + :kbd:`MOUSE-RIGHT ◳` в папке приложения(обычно :file:`C:\/Program Files\/Particl`), далее выберите :guilabel:`Открыть командное окно` или :guilabel:`Открыть командную оболочку(powershell)`.
+	 		#. Введите в терминале следующую команду, затем нажмите :kbd:`ENTER ↵`:
 
 	 			.. code-block:: bash
 
@@ -601,12 +602,12 @@ Enable with terminal startup
 
 	.. group-tab:: Mac
 
-	 	**Launching Particl With Tor**
+	 	**Запуск Particl с Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Terminal` (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE` and type "terminal" > hit :kbd:`ENTER ↵`)
-	 		#. Type in this command:
+	 		#. Откройте :guilabel:`Terminal` (т.е. :kbd:`COMMAND ⌘` + :kbd:`SPACE` введите "terminal" >нажмите :kbd:`ENTER ↵`)
+	 		#. Введите эту команду:
 
 				.. code-block:: bash
 
@@ -614,45 +615,45 @@ Enable with terminal startup
 
 	.. group-tab:: Linux
 
-	 	**Launching Particl With Tor**
+	 	**Запуск Particl с Tor**
 
 	 	.. rst-class:: bignums
 	 	
-	 		#. Open a terminal in the folder where you've installed :term:`Particl Desktop` and type the following command.
+	 		#. Откройте терминал из папки, в которой установлен :term:`Particl Desktop` и введите следующую команду:
 		
 				.. code-block:: bash
 
 					./Particl\ Desktop -proxy=127.0.0.1:9150
 
 
-Important Considerations
-------------------------
+Внимание, это важно!
+--------------------
 
-Keep Tor up-to-date
-~~~~~~~~~~~~~~~~~~~
+Поддерживайте Tor обновленным
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:term:`Tor` needs to always be updated to the latest version. This is a critical requirement that, if not followed, can heavily compromise your online privacy. :term:`Tor` updates contain very important security fixes to keep your identity confidential. 
+:term:`Tor` необходимо всегда обновлять до последней версии. Это важное требование, несоблюдение которого может серьезно навредить вашей конфиденциальности в интернете. Обновления :term:`Tor` содержат очень важные исправления безопасности, обеспечивающие конфиденциальность вашей личности.
 
-As the network itself is widely targeted by hackers due to the privacy it provides, unpatched versions of :term:`Tor` are considered unsafe to use. If exploited, a compromised version of :term:`Tor` may leak your true identity and even let others spy on your online activity.
+Поскольку сеть сама по себе широко используется хакерами из-за той конфиденциальности, которую она обеспечивает, то непропатченные версии :term:`Tor` считаются небезопасными для использования. В случае взлома скомпрометированная версия :term:`Tor` может привести к утечке вашей реальной личности и даже позволить другим шпионить за вашей активностью онлайн. 
 
 .. tabs::
 	 .. group-tab:: Windows
 
-	 	**Updating Tor**
+	 	**Обновление Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open the :term:`Tor` Browser
-	 		#. Check if the browser prompts you to update the a newer version.
+	 		#. Запустите the :term:`Tor` браузер
+	 		#. Проверьте, не предлагает ли вам браузер обновить версию до более новой. 
 
 	 .. group-tab:: Mac
 
-	 	**Updating Tor**
+	 	**Обновление Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open :guilabel:`Terminal` (e.g., :kbd:`COMMAND ⌘` + :kbd:`SPACE` and type "terminal" > hit :kbd:`ENTER ↵`)
-	 		#. Type this line of code and  hit :kbd:`ENTER ↵`
+	 		#. Откройте :guilabel:`Terminal` (т.е., :kbd:`COMMAND ⌘` + :kbd:`SPACE` и введите "terminal" > нажмите :kbd:`ENTER ↵`)
+	 		#. Ввведите эту строку кода и нажмите :kbd:`ENTER ↵`
 
 	 			.. code-block:: bash
 	
@@ -660,18 +661,18 @@ As the network itself is widely targeted by hackers due to the privacy it provid
 
 	 .. group-tab:: Linux
 
-	 	**Updating Tor**
+	 	**Обновление Tor**
 
 	 	.. rst-class:: bignums
 
-	 		#. Open a :guilabel:`Terminal` and run the upgrade procedure depending on your package manager.
+	 		#. Откройте a :guilabel:`терминал` и запустите процедуру обновления, в зависимости от используемого менеджера пакетов.
 
-	 			**Example**
+	 			**Например:**
 
 	 			.. code-block:: bash
 
 	 				sudo apt update && sudo apt-upgrade
 
-	 	Depending on your linux flavor this command may vary. There are multiple package-managers out there, but their usage is quite the same.
+	 	В зависимости от вашего дистрибутива Linux эта команда может отличаться. Есть несколько менеджеров пакетов, но их использование практически одинаково.
 
 

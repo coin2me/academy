@@ -1,48 +1,49 @@
-==========
-Quickstart
-==========
+=============
+Быстрый старт
+=============
 
 .. title::
-   Particl Marketplace Quickstart Installation Guide
+   Руководство по подготовке к работе с Particl Marketplace
    
 .. meta::
+   :description lang=ru: Как установить ПО Particl Desktop для использования торговой площадки Particl. 
    :description lang=en: How to install Particl Desktop in order to use Particl Marketplace. 
    :keywords lang=en: Particl, Marketplace, Installation, Quickstart, Blockchain, Privacy, E-Commerce, multi-vendor marketpalce
 
-:term:`Particl Marketplace` provides you with the most secure, private, and censorship-resistant e-commerce experience on the web.
+Использование :term:`Particl Marketplace` даст вам самый безопасный, конфиденциальный и устойчивый к цензуре опыт электронной коммерции в интернете.
 
-.. admonition:: Understanding the basics of Particl Marketplace
+.. admonition:: Прочтите эти разделы для понимания основ Particl Marketplace
 
-   - Particl Academy - Intro :doc:`What You Gain <../intro/intro_general_particlmarketplace>`
-   - Particl Academy - Intro :doc:`Target Audiences <../intro/intro_general_target_audiences>`
-   - Particl Academy - Intro :doc:`Particl Marketplace Brief Overview <../intro/intro_marketplace_brief_overview>` 
+   - Академия Particl - Вступление :doc:`Что вы получаете <../intro/intro_general_particlmarketplace>`
+   - Академия Particl - Вступление :doc:`Целевые аудитории <../intro/intro_general_target_audiences>`
+   - Академия Particl - Вступление :doc:`Краткий обзор Particl Marketplace <../intro/intro_marketplace_brief_overview>` 
 
-The following guides will take you through each step, from A to Z, so that you can begin to buy or sell anything online without restriction.
+Следующие руководства проведут вас пошагово от А до Я и вы сможете начать покупать или продавать что-либо в интернете без ограничений. 
 
 ----
 
 .. rst-class:: bignums
 
-	#. **Download and install the Particl Desktop client** 
-		* :ref:`Particl Desktop & Marketplace Installation <Particl Marketplace>`
-	#. **Have PART coins in order to buy or sell items on Particl Marketplace** 
-		* :doc:`Obtaining PART <../guides/guide_general_obtaining_part>`
-	#. **Save time by preparing your funds in** :guilabel:`Public` **and** :guilabel:`Anon` **balances**
-		* :doc:`Funds, Coins, and Balances <../guides/guide_mp_general_managing_funds>` 
-	#. **Start buying and selling**
-		* :doc:`Buy Process <../guides/guide_mp_customer_understanding_buyflow>`    
-		* :doc:`Sell Process <../guides/guide_mp_vendor_understanding_sellflow>`  
-		* :doc:`Markets and Storefronts <../guides/guide_mp_general_market_management>`
+	#. **Загрузите и установите клиентское ПО Particl Desktop** 
+		* :ref:`Установка приложения Particl Desktop & Marketplace <Руководство по установке>`
+	#. **Имейте монеты PART для покупки и продажи товаров на Particl Marketplace** 
+		* :doc:`Как получить PART <../guides/guide_general_obtaining_part>`
+	#. **Сэкономьте время, приготовив нужные суммы на балансах** :guilabel:`Public` **и** :guilabel:`Anon`
+		* :doc:`Фонды, монеты и балансы <../guides/guide_mp_general_managing_funds>` 
+	#. **Начинайте покупать или продавать**
+		* :doc:`Процедура покупки <../guides/guide_mp_customer_understanding_buyflow>`    
+		* :doc:`Процедура продажи <../guides/guide_mp_vendor_understanding_sellflow>`  
+		* :doc:`Рынки и магазины <../guides/guide_mp_general_market_management>`
 
 ----
 
-.. admonition:: Get help
+.. admonition:: Где получить помощь
 
-	Need help? The Particl community will take great care of you. At these locations, you'll find answers and support.
+	Нужна помощь? Сообщество Particl позаботится о вас, здесь вы найдете ответы и поддержку: 
 
-	* :doc:`Frequently asked Questions (FAQ) <../faq/faq_mp_general_overview>`   
-	* :doc:`Common Issues <../faq/common_issues>`
-	* :doc:`Get Support <../faq/get_support>`
-	* :doc:`Glossary <../glossary>`
+	* :doc:`Часто задаваемые вопросы (FAQ) <../faq/faq_mp_general_overview>`   
+	* :doc:`Решение возможных распространенных проблем <../faq/common_issues>`
+	* :doc:`Где получить помощь <../faq/get_support>`
+	* :doc:`Глоссарий <../glossary>`
 
 ----

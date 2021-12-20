@@ -1,19 +1,19 @@
-=====================
-Markets & Storefronts
-=====================
+================
+Рынки и магазины
+================
 
 .. title::
-   Particl Marketplace Markets & Storefronts
-
+   Рынки и магазины на торговой площадке Particl
 .. meta::
       
+      :description lang=ru: Создайте собственный магазин бесплатно. Функция "Рынки и магазины" от Particl позволяет создавать неограниченное количество торговых площадок для товаров и услуг. Спасибо технологии блокчейн.
       :description lang=en: Own your own storefront for free. Particl's Markets & Storefronts enables you to setup an unlimited number of marketplaces for goods and services. Thanks to blockchain technology.
 
-The main difference between markets and storefronts is who has the right to post listings in them. A market allows anyone to post listings, whereas a storefront only allows those with a specific publishing key. 
+Основное различие между рынками и магазинами заключается в том кто имеет право размещать там объявления о продаже. Рынок позволяет всем участникам публиковать такие объявления, а магазин - только тем, у кого есть определенный ключ для публикации. 
 
 .. note::
 
-   To simplify the terminology, "markets" and "storefronts" are referred to as "community markets".
+   Для упрощения терминологии "рынки" и "магазины" называются как "пользовательские рынки".
 
 Create and join an unlimited number of community markets with the :term:`Particl Marketplace`. Each of these markets can host an equally-unlimited number of listings and live independently from the predefined :term:`Open Market`.
 

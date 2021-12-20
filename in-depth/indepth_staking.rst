@@ -1,5 +1,5 @@
 =================
-Staking Explained
+Стейкинг подробно
 =================
 
 “Staking” refers to the act of supporting the blockchain by validating transactions on your computer (referred to as a “staking node”). In exchange for this work, the network rewards you with its cryptocurrency coins.

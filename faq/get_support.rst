@@ -1,6 +1,6 @@
-Get Support
-===========
+Где получить помощь
+===================
 
-Do you have any questions not answered anywhere on the Particl Academy? Then let us know about it so that we can help you out and update the Particl Academy!
+У вас есть вопросы, на которые в Академии Particl нет ответов? Тогда сообщите нам об этом, чтобы мы смогли помочь вам и дополнить Академию  Particl!
 
-To seek out help, join Particl's **Help channel** on `Discord <https://discord.me/particl>`_ or `Telegram <https://t.me/particlhelp>`_, where the Particl community and team will assist you. You can also get help by posting on the `community forum <https://particl.community>`_.
+Для получения ответов присоединитесь к нашим **каналам поддержки** в `Discord <https://discord.me/particl>`_ или в `Telegram <https://t.me/particlhelp>`_, где сообщество и команда Particl смогут вам помочь. Вы также можете получить помощь, разместив сообщение на `форуме сообщества  <https://particl.community>`_.

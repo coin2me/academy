@@ -1,14 +1,15 @@
-=============
-All Functions 
-=============
+==================
+Обзор всех функций 
+==================
 
 .. title::
-   Particl Marketplace All Functions Overview
+   Обзор всех функций торговой площадки Particl Marketplace
 
 .. meta::
+   :description lang=ru: Все функции Particl Marketplace как на ладони.
    :description lang=en: All the functions of Particl Marketplace at a glance. 
 
-Particl is a :term:`decentralized <Decentralization>` marketplace and is in its Beta phase of development. While there are still a lot of features under development, it currently provides you with most of the basic tools  you need to buy and sell online without sacrificing your personal information and without paying fees.   
+:term:`Децентрализованная <Decentralization>` торговая площадка Particl на данный момент находится в Beta-фазе. Но несмотря на то, что многие функции все еще в стадии разработки, на данный момент она предоставляет вам большинство основных инструментов, необходимых для покупок и продаж в интернете без ущерба для личной информации и без уплаты излишних комиссий.   
 
 .. contents:: Table of Contents
    :local:
@@ -17,203 +18,205 @@ Particl is a :term:`decentralized <Decentralization>` marketplace and is in its 
 
 ----
 
-Wallet
-------
+Кошелек
+-------
 
-The "wallet" section of the :term:`Particl Desktop` client refers to the section where you manage your funds. It also contains a few other features not related to Particl's marketplace.
+В разделе "wallet" клиентского ПО :term:`Particl Desktop` вы можете управлять своими кошельками и деньгами. Также там есть несколько функций, не связанных с торговой площадкой Particl.
 
-Wallet Management
-~~~~~~~~~~~~~~~~~
-
-:term:`Particl Desktop` lets you safely manage an infinite number of wallets within the same environment. 
-
-- Create and import an infinite number of wallets
-- Instantly switch between different wallets
-- All wallets are independently encrypted for maximum security
-
-Particl Cryptocurrency (PART)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The PART coin is Particl's native :term:`cryptocurrency <Cryptocurrency>`. It is a modern, secure, private, and flexible :term:`cryptocurrency <Cryptocurrency>` built on the most recent version of Bitcoin, to which many improvements and extra functionalities have been added.
-
-- Send and receive funds to anyone without any middleman.
-- Buy and sell goods and services on :term:`Particl Marketplace`.
-- Near-instant settlements, transactions only take ~2 minutes to settle.
-- Near-zero transaction fee, usually a cent or less.
-- No financial borders, there are no international (fx) fees or geographical restrictions.
-- Adjustable level of privacy to fit your needs.
-- Built on the Bitcoin codebase and always maintained up to its most recent version.
-- Proof-of-Stake consensus protocol, earn dividend-like staking rewards.
-- Coins are counted as voting power in the marketplace's moderation system.
-- Secure your funds with multi-signature addresses which require more than one party to authorize transactions.
-- Available on desktop and mobile wallets.
-
-In-depth details can be found at :ref:`Currency (PART) Explained`.
-
-Particl Proof-of-Stake (Staking)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Staking is the act of keeping a :term:`node <Node>` online to support and secure Particl's distributed network. When you do so, you start receiving regular staking rewards paid by the network in exchange for your contribution.
-
-- Earn dividend-like staking rewards in exchange for keeping Particl :term:`nodes <Node>` online.
-- Staking interest on Particl varies between 2% and 5% depending on the percentage of the supply being put up for staking.
-- The network gets more secure and resilient as more people stake.
-- "Cold staking" is a hyper-secure staking option that lets you delegate your staking power to an online :term:`node <Node>` that contains no coin. 
-- Particl provides many different cold staking variants, each one being as secure as the other ones.
-   - **Cold staking:** Stake your coins stored even when stored offline, such as on cold wallets, hardware devices, or even paper wallets.
-   - **Staking pool:** Combine your staking power with other stakers to earn more frequent payments.
-   - **Hardware staking:** Stake your coins stored on hardware devices such as the Ledger Nano and the Trezor.
-   - **Mobile staking:** Stake your coins stored on your phone without draining your battery.
-   - **Multi-signature staking:** Stake your coins stored on special addresses that require multiple parties to authorize transactions.
-
-In-depth details can be found at :ref:`Staking Explained`.
-
-Address Book (Contacts)
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Because funds need to be sent to cryptographic addresses, it can be hard to remember who owns which address. :term:`Particl Desktop`'s address book page is there specifically to help you make sense of these addresses by saving them to contacts.
-
-- Save both public and private PART addresses and enter their contact information.
-- Display a contact's address and all of its details in a block explorer.
-- Sign and verify messages using PART addresses.
-- When sending funds to one of your contacts, you can quickly pick their address from the address book. 
-
-----
-
-Marketplace
------------
-
-:term:`Particl Marketplace` is accessible right from the :term:`Particl Desktop` application. It is deployed on a distributed network that lets you connect directly, without the help of any intermediary, with buyers and sellers from all around the world.
-
-In-depth details can be found in the :doc:`Particl Marketplace Explained <../in-depth/indepth_mp_explained>` guide.
-
-Open Market
-~~~~~~~~~~~
-
-Particl's :term:`Open Market` allows you to buy and sell products and services online without requiring any middleman to facilitate the transaction. The :term:`Open Market` is the market you see when you first launch the application. It is enabled and available by default, unlike user-generated markets and storefronts.
-
-- Buy and sell anything at no cost.
-- No commission, sales, withdrawal, or subscription fee.
-- Sell products on as many Particl markets as desired.
-- No pre-defined bans on products and services.
-- Every seller has equal exposure, no pay-to-win schemes.
-- Accessible from anywhere in the world.
-- Just like the Internet, the marketplace cannot be shut down or be put offline.
-- Marketplace transactions do not generate any traceable data and protect your personal information.
-- Any listing can be saved in your favorite list.
-
-Markets and Storefronts
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Additionally to the :term:`Open Market`, you can also create an infinite number of markets and storefronts. Each community market is hosted on the Particl network, along with the :term:`Open Market`, and can easily be connected to using :term:`Particl Desktop`.
-
-- Markets and storefronts offer the same functionalities as the :term:`Open Market`, but with a few extras.
-- Markets and storefronts are two different types of markets but are both usually referred to as "community markets".
-
-   - **Markets:** A market type where anyone with access to it can buy and sell on. 
-   - **Storefronts:** A market type where anyone can buy stuff, but only its creator and the people he delegates can sell on.
-- Community markets can be joined by anyone that knows their Market ID or by browsing the Market Browser.
-- Markets do not automatically show up in the Market Browser right after being created. They have to be manually promoted to it by its creator if they wish to gain additional exposure.
-
-The user guide can be found at :ref:`Markets & Storefronts`. 
-
-Market Browser
-~~~~~~~~~~~~~~
-
-The Market Browser is where you can explore various different community markets and join them. It is a list of all promoted markets and storefronts.
-
-- See all the community markets that have been promoted to the Market Browser by their creators.
-- Flag undesirable markets and vote on markets flagged by other people.
-
-Inventory Management
+Управление кошельком
 ~~~~~~~~~~~~~~~~~~~~
 
-:term:`Particl Marketplace` lets you manage your inventory by creating a listing template for each item you want to sell. Additionally, you can manage your inventory's quantity and variants (i.e., colors, sizes, etc.). Quantity and variant management is currently under development and will be added at a later update.
+:term:`Particl Desktop` позволяет безопасно управлять бесконечным количеством кошельков в одной среде. 
 
-- Listing templates are reused every time you want to republish an item on the marketplace.
-- When a listing expires, the listing template saves its comments, feedback, and Q&A.
-- When a listing expires, it keeps its moderation score.
-- Listing templates can push listings on multiple community markets and storefronts.
+- Создавайте или импортируйте столько кошельков сколько вам нужно
+- Мгновенно переключайтесь между разными кошельками
+- Все кошельки зашифрованы независимо для обеспечения максимальной безопасности.
 
-Two-Party Escrow System
-~~~~~~~~~~~~~~~~~~~~~~~
+Криптовалюта Particl (PART)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Particl's two-party escrow system protects users against scammers and ensures that marketplace transactions can be completed in a safe way. It requires both parties to temporarily lock a security deposit that can only be refunded, at no fee, once both parties agree that a transaction was completed satisfactorily. This forces transacting parties to remain honest with each other and collaborate in case an issue arises.
+Монета PART - это собственная :term:`криптовалюта <Cryptocurrency>` экосистемы Particl. Это современная, безопасная, конфиденциальная и гибкая :term:`криптовалюта <Cryptocurrency>`, построенная на самой последней версии протокола Биткоина, в которую было добавлено множество улучшений и дополнительных функций.
 
-- Doesn't involve any middleman such as a third-party temporarily holding funds on behalf of transacting parties.
-- Free to use; no fee is charged for the service.
-- The escrow system is entirely autonomous and uses smart-contracts.
-- All transactions made with the escrow system are untraceable by default, and no personal information can leak out.
-- Escrow transactions are secured by blockchain technology and cannot be interfered or tampered with.
-- Two-party escrow contracts are mandatory for all marketplace transactions.
-- You can check the status and progress of any escrow transaction at any time on :term:`Particl Desktop`.
+- Отправляйте и получайте средства кому угодно без посредников.
+- Покупайте и продавайте товары и услуги на торговой площадке :term:`Particl Marketplace` 
+- Практически мгновенные расчеты, транзакции обрабатываются всего за ~2 минуты.
+- Почти нулевая комиссия за транзакцию, около 1 цента или меньше.
+- Нет финансовых границ, нет международных пошлин или географических ограничений.
+- Регулируемый уровень конфиденциальности в соответствии с вашими потребностями.
+- Создана на кодовой базе Биткоин и всегда поддерживается обновленной до самой последней версии.
+- Протокол консенсуса Proof-of-Stake позволяет зарабатывать вознаграждения, подобные дивидендам.
+- Монеты учитываются как сила голоса в системе модерации торговой площадки.
+- Возможно защитить свои средства с помощью адресов с несколькими подписями, если вам потребуется авторизация транзакций более чем одним лицом.
+- ПО кошелька доступно в десктоп и мобильной версиях. 
 
-In-depth details can be found at :ref:`Two-Party Escrow Explained`.
+Более подробно можно ознакомиться здесь :ref:`Монета PART подробно`.
 
-Marketplace Moderation
-~~~~~~~~~~~~~~~~~~~~~~
+Particl Proof-of-Stake (Стейкинг)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To moderate the content of the marketplace, Particl relies on a distributed moderation system that gives moderation powers to every user. Voting power is calculated on a one-coin-equals-one-vote basis.
+Стейкинг - это процесс поддержания своего :term:`узла <Node>` постоянно в сети, что необходимо для обеспечения работоспособности и безопасности распределенной сети Particl в целом. Когда вы это сделаете - вы начнете получать регулярные вознаграждения за стекинг, выплачиваемые вам сетью за ваш вклад.
 
-- No central authority or group of users with special permissions involved.
-- Your voting power is determined by the number of coins you own in your :guilabel:`Public` balance.
-- One coin equals one vote.
-- Both listings and community markets can be flagged and taken off Particl if deemed undesirable.
-- Moderation model based on the concept of direct democracy.
-- The system is based on blockchain technology and cannot be cheated.
+- Зарабатывайте стейкинг-вознаграждения(как дивиденды) за поддержлу :term:`узлов <Node>` сети Particl онлайн.
+- Процент по стейкингу на Particl варьируется от 2% до 5% в зависимости от соотношения размещенных в стейкинг монет и общего количества монет в обороте. 
+- Чем больше людей стейкают - тем безопаснее и надежнее становится сеть.
+- «Холодный стейкинг» - это сверхзащищенный вариант стейкинга, который позволяет делегировать свои полномочия по стейкингу другому узлу, находящемуся онлайн, но не содержащему монет при этом. 
+- Particl предлагает много различных вариантов холодного стейкинга и все они одинаково безопасны.
+   - **Холодный стейкинг** Стейкинг монет, хранящихся в оффлайн кошельках, например- в холодных кошельках, или на аппаратных устройствах, или даже в бумажных кошельках.
+   - **Стейкинг пул** Объедините свои возможности стейкинга с другими участниками чтобы получать более частые выплаты.
+   - **Аппаратный стейкинг** Стейкинг монет, хранящихся на аппаратных устройствах, таких как Ledger Nano или Trezor.
+   - **Мобильный стейкинг** Стейкинг монет, хранящихся в кошельке на телефоне, без разряда батареи.
+   - **Мультиподписной стейкинг** Стейкинг монет, хранящихся на мультиподписных адресах, которые требуют авторизации транзакций несколькими  сторонами. 
 
-In-depth details can be found at :ref:`Marketplace Moderation`.
+Более подробно можно ознакомиться здесь :ref:`Стейкинг подробно`.
 
-Questions and Answers
-~~~~~~~~~~~~~~~~~~~~~
+Адресная книга (Контакты)
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Particl’s "Comments and Reviews" feature allows buyers and sellers to interact with each other directly and publicly from a listing’s page. Buyers can ask questions, leave feedback, and make comments on listings, while the seller can directly and publicly respond to each message.
+Поскольку вы отправляете деньги на криптографические адреса, то может быть трудно запомнить кому и какой адрес принадлежит. Страница адресной книги :term:`Particl Desktop` служит именно для того чтобы сохранить эти адреса в виде контактов, более удобном для восприятия.
 
-The feature is additionally integrated into any transaction allowing two users to publicly communicate in case there's an issue with an order.
-
-- Ask a question, leave feedback, make comments, or ask for additional details on any listing page.
-- Answer questions from shoppers directly inside a listing's page.
-- See all the messages left by other people.
-- Each new message creates a thread where the seller, as well as anyone else, can participate in.
+- Отправляя средства одному из ваших контактов, вы сможете быстро выбрать его адрес из адресной книги.
+- Можно сохранить публичный и скрытый адреса PART для одного и того же человека.
+- В обозревателе блоков отображается адрес контакта и все его данные.
+- Подписывайте и проверяйте сообщения, используя адреса PART.
+ 
 
 ----
 
-Swap
+Торговая площадка
+-----------------
+
+Торговая площадка :term:`Particl Marketplace` доступна непосредственно в клиентском ПО :term:`Particl Desktop`. Все данные находятся в распределенной сети, все покупатели и продавцы из всех точек мира, и это позволяет вам получить доступ к ним напрямую, без каких-либо посредников.
+
+Подробное описание работы с торговой площадкой Particl в этом :doc:`руководстве пользователя <../in-depth/indepth_mp_explained>`.
+
+Открытый рынок
+~~~~~~~~~~~~~~
+
+:term:`Открытый рынок <Open Market>` Particl дает вам возможность покупать и продавать товары и услуги в интернете без нужды в каком-либо  посреднике для осуществления этих сделок. :term:`Открытый рынок <Open Market>` - это рынок, который вы увидите при первом запуске приложения. Он всегда включен и доступен по умолчанию, в отличие от других рынков и магазинов, создаваемых пользователями.
+
+- Покупайте и продавайте что угодно, без накладных расходов.
+- Никаких комиссий, вывода средств или абонентской платы.
+- Продавайте свои товары одновременно на стольких рынках Particl на скольких пожелаете.
+- Нет заранее определенных запретов на какие-то товары и услуги.
+- Все продавцы имеют равные возможности, нет схем получения преимуществ за откаты.
+- Доступен из любой точки мира.
+- Торговую площадку нельзя закрыть или выключить, аналогично как и интернет в целом.
+- Транзакции на торговой площадке не оставляют никаких отслеживаемых данных, и таким образом защищают вашу личную информацию.
+- Любое объявление можно сохранить в списке избранных.
+
+Рынки и магазины
+~~~~~~~~~~~~~~~~
+
+В дополнение к :term:`открытому рынку <Open Market>` вы также можете создать бесконечное количество рынков и магазинов. Каждый такой пользовательский рынок размещается в сети Particl, аналогично как и :term:`открытый рынок <Open Market>`, и к нему точно также легко подключиться с помощью :term:`Particl Desktop`.
+
+- Рынки и магазины предоставляют все те же функции как и :term:`открытый рынок <Open Market>`, но с некоторыми дополнениями.
+- Рынки и магазины - это два различных типа рынков,  но оба относятся к так называемым "пользовательским рынкам".
+
+   - **Рынки:** - это такой тип рынка где каждый, имеющий к нему доступ, может и покупать, и продавать. 
+   - **Магазины:** - это такой тип рынка где каждый покупать товары, но только создатель либо уполномоченные им люди могут продавать.
+
+- К таким пользовательским рынкам может присоединиться любой, кто знает ID рынка или кто найдет его в обозревателе рынков.
+- Рынкы не отображаются в обозревателе автоматически сразу же после создания. Создатель должен вручную добавить его туда в случае если он хочет сделать его видимым для всех и общедоступным.
+
+Руководство пользователя здесь :doc:`Рынки и магазины <../guides/guide_mp_general_market_management>`. 
+
+
+Обозреватель рынков
+~~~~~~~~~~~~~~~~~~~
+
+Обозреватель рынков(Market Browser) - это то место, где вы можете найти различные пользовательские рынки и присоединиться к ним. Это каталог  всех общедоступных рынков и магазинов.
+
+- Можно просматривать все пользовательские рынки, которые их создатели добавили в обозреватель.
+- Можно пометить рынки(товары) как нежелательные или проголосовать на рынках, уже помеченных другими людьми. 
+
+Ваш инвентарь
+~~~~~~~~~~~~~
+
+:term:`Particl Marketplace` дает вам возможность управлять своими инвентарными запасами, создавая шаблон объявления для каждого предмета, который вы хотите продать. Кроме этого вы можете управлять количеством и вариантами своего инвентаря (такими как цвет, размеры и т. п.). Управление количеством и вариантами в настоящее время находится в стадии разработки и будет добавлено в более позднем обновлении. 
+
+- Шаблоны объявлений удобно использовать каждый раз, когда вы хотите повторно разместить товар на торговой площадке.
+- Когда срок объявления истекает - шаблон объявления сохраняет все комментарии, отзывы, вопросы и ответы.
+- Когда срок объявления истекает - шаблон сохраняет оценку модерации.
+- Используя шаблоны очень удобно размещать товары сразу на нескольких пользовательских рынках и в магазинах.
+
+Двустороннее условное депонирование
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Система двустороннего условного депонирования Particl защищает пользователей от мошенников и гарантирует что все сделки на торговой площадке могут быть завершены безопасно. Она требует от обеих сторон временно заблокировать гарантийный депозит, который может быть им возвращен(без комиссии) только после того как обе стороны согласятся с тем, что сделка завершена удовлетворительно. Это заставляет партнеров по сделке оставаться честными друг с другом и сотрудничать в поиске взаимно приемлемого решения в случае возникновения какой-либо проблемы.
+
+- Не привлекает каких-либо посредников, таких как некая третья сторона, временно удерживающая средства по поручению партнеров сделки.
+- Бесплатна для использования, плата за эту услугу не взимается.
+- Система условного депонирования полностью автономна и использует смарт-контракты.
+- Все транзакции, совершаемые с помощью системы условного депонирования, по умолчанию не отслеживаются и никакая личная информация не может просочиться.
+- Транзакции условного депонирования защищены технологией блокчейн и не могут подвергаться вмешательству или подделке.
+- Двухсторонние контракты условного депонирования являются обязательными для всех сделок на торговой площадке.
+- Вы можете проверить на :term:`Particl Desktop` статус и прогресс любой транзакции условного депонирования в любое время.
+
+Более углубленно об этом можно прочитать здесь :ref:`Двусторонняя система условного депонирования`.
+
+Модерация торговой площадки
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Чтобы модерировать контент на торговой площадке, Particl применяет распределенную систему модерации, дающую полномочия модератора каждому пользователю. Сила голоса рассчитывается по принципу «одна монета равна одному голосу»
+
+- Нет центрального органа или группы пользователей со специальными полномочиями.
+- Ваша сила голоса определяется количеством монет на вашем балансе :guilabel:`Public`.
+- Одна монета равна одному голосу.
+- И объявления, и пользовательские рынки могут быть помечены и удалены с Particl, если сообщество сочтет их нежелательным.
+- Модель модерации основана на концепции прямой демократии.
+- Система основана на технологии блокчейн и не может быть обманута.
+
+Более детально можно ознакомиться здесь :doc:`Модерация торговой площадки  <../in-depth/indepth_mp_moderation>`.
+
+Вопросы и ответы
+~~~~~~~~~~~~~~~~
+
+Функция "Comments and Reviews" позволяет покупателям и продавцам общаться друг с другом напрямую и публично непосредственно на странице объявления. Покупатели могут задать вопросы, оставить отзыв или комментарий, а продавец может прямо и публично ответить на каждое сообщение.
+
+Эта функция также интегрирована в любую сделку, что позволяет двум пользователям публично пообщаться в случае возникновения проблемы с заказом.
+
+- Задать вопрос, оставить отзыв или комментарий, или уточнить дополнительные детали на странице каждого объявления.
+- Ответить на вопросы покупателей прямо на странице объявления.
+- Увидеть все сообщения, оставленные другими.
+- Каждое новое сообщение создает новую ветку, в которой могут отвечать как продавец, так и кто-угодно другой желающий.
+
 ----
 
-The in-app swap module of :term:`Particl Desktop` is where you'll find everything you need to swap other :term:`cryptocurrencies <Cryptocurrency>` for PART. It is also where you'll find other payment options such as credit card payments if any is available at the time. 
+Обмен
+-----
 
-Swapping Assets
-~~~~~~~~~~~~~~~
+Модуль обмена, встроенный в :term:`Particl Desktop` - это все, что вам нужно для обмена других :term:`криптовалют <Cryptocurrency>` на PART. Здесь же вы найдете все другие возможные способы оплаты, например такие как оплата кредитной картой, которые доступны на данный момент.
 
-- Swap any available :term:`cryptocurrency <Cryptocurrency>` (i.e., BTC) into PART to top up your Particl wallet.
-- Connects to external exchanges using API.
-- "Atomic swaps" give you the option to swap available :term:`cryptocurrencies <Cryptocurrency>` for PART without requiring any middleman to facilitate the transaction (coming soon).
+Обмениваемые активы
+~~~~~~~~~~~~~~~~~~~
 
-Multi-Currency Support (Marketplace)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Обмен любой доступной :term:`криптовалюты <Cryptocurrency>` (например BTC) на PART для пополнения кошелька Particl.
+- Использование внешних бирж посредством API.
+- "Atomic swaps" дают вам возможность обмена других :term:`криптовалют <Cryptocurrency>` в PART без какого-либо посредника для осуществления сделки.(скоро появится).
 
-- Pay for products and services using any of the available :term:`cryptocurrencies <Cryptocurrency>` (i.e., BTC).
-- The marketplace automatically converts non-PART payments in PART before funding any two-party escrow contract.
+Мультивалютная поддержка (Торговая площадка)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Оплата товаров и услуг любой доступной :term:`криптовалютой <Cryptocurrency>` (например BTC).
+- Торговая площадка автоматически конвертирует в PART все платежи, произведенные не в PART, до отправки в смартконтракт двустороннего условного депонирования.
 
 .. attention::
    
-   Particl's in-app swap engine is temporarily unavailable. We are working on getting it back up as soon as possible!
+   Встроенный обменный модуль Particl временно недоступен. Мы работаем над тем чтобы вернуть его онлайн как можно скорее!
 
 ----
 
-Messaging
----------
+Мессенджер
+----------
 
 .. tip::
    
-   Particl developers are currently building an in-app messaging and chat system.
+   Разработчики Particl в настоящее время работают над системой втсроенного мессенджера и чата.
 
 .. seealso::
 
- Other sources for useful or more in-depth information:
+ Другие ресурсы, содержащие полезную или более углубленную информацию:
 
- - Particl Website - `Particl's Roadmap <https://particl.io/roadmap/>`_
- - Particl Website - `Particl's Achievements <https://particl.io/assets/documents/Particl-Achievement_timeline-Aug_2020.pdf>`_
+ - Вебсайт Particl - `Дорожная карта Particl <https://particl.io/roadmap/>`_
+ - Вебсайт Particl - `Достижения Particl <https://particl.io/assets/documents/Particl-Achievement_timeline-Aug_2020.pdf>`_
 
 ----

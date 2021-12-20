@@ -1,6 +1,6 @@
-==========================
-Two-Party Escrow Explained
-==========================
+============================================
+Двусторонняя система условного депонирования
+============================================
 
 When buying from or selling to strangers online, you need to be confident that the other party will keep their end of the agreement and not scam you. That's why contract security and enforcement are essential when trading goods and services on any marketplace. 
 

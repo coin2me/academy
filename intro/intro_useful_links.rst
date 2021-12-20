@@ -1,33 +1,33 @@
-Links
-=====
+Ссылки
+======
 
-This section is a collection of many useful Particl-related links. It will redirect you to a lot of external content that should help you get your way around Particl. Happy reading!
+Этот раздел содержит коллекцию из множества полезных ссылок экосистемы Particl. Они перенаправят вас к большому количеству внешнего контента, который поможет вам лучше разобраться в Particl. Приятного прочтения!
 
-**General**
+**Общие**
 
-* `Website <https://particl.io>`_
-* `News Blog <https://particl.news>`_
-* `Downloads <https://particl.io/downloads>`_
-* `Roadmap <https://particl.io/roadmap>`_
-* `Whitepaper <https://github.com/particl/whitepaper>`_
-* `PART Coin Exchanges <https://particl.io/part-exchanges/>`_
+* `Вебсайт <https://particl.io>`_
+* `Блог новостей <https://particl.news>`_
+* `Загрузки <https://particl.io/downloads>`_
+* `Дорожная карта <https://particl.io/roadmap>`_
+* `Официальный документ(Whitepaper) <https://github.com/particl/whitepaper>`_
+* `Биржи монеты PART <https://particl.io/part-exchanges/>`_
 
-**Help & Support**
+**Помощь и поддержка**
 
-* `Particl Wiki <https://particl.wiki/support/start>`_
-* `Community Forum <https://particl.community>`_
-* `Issue Tracker (Particl Desktop) <https://github.com/particl/particl-desktop/issues>`_
+* `Википедия Particl <https://particl.wiki/support/start>`_
+* `Форум <https://particl.community>`_
+* `Трекер проблем (Particl Desktop) <https://github.com/particl/particl-desktop/issues>`_
 
-**Metrics and Numbers**
+**Метрики и цифры**
 
-* `Block Explorer (Insight) <https://explorer.particl.io/>`_
-* `Block Explorer (CryptoID) <https://chainz.cryptoid.info/part/>`_
-* `Real-time Particl Statistics <https://stats.particl.page>`_
-* `Particl Marketplace Web (Alpha) <https://demarkets.io/>`_
-* `Staking Revenue Calculator <https://www.stakingrewards.com/asset/particl>`_
+* `Обозреватель блоков (Insight) <https://explorer.particl.io/>`_
+* `Обозреватель блоков (CryptoID) <https://chainz.cryptoid.info/part/>`_
+* `Статистика Particl в реальном времени <https://stats.particl.page>`_
+* `Онлайн-обозреватель торговой площадки Particl(Alpha версия) <https://demarkets.io/>`_
+* `Калькулятор дохода от стейкинга <https://www.stakingrewards.com/asset/particl>`_
 
 
-**Chats, Socialmedia, Forums**
+**Чаты, социальные сети, форумы**
 
 * `Discord <https://discord.me/particl>`_
 * `Telegram <https://t.me/particlOn>`_
@@ -43,12 +43,12 @@ This section is a collection of many useful Particl-related links. It will redir
 
 ---
 
-* `Forum (Community) <https://particl.community>`_
-* `BitcoinTalk <https://bitcointalk.org/index.php?topic=5227333>`_
-* `Github <https://github.com/particl>`_
+* `Форум (сообщества Particl) <https://particl.community>`_
+* `Форум BitcoinTalk <https://bitcointalk.org/index.php?topic=5227333>`_
+* `Официальный Github <https://github.com/particl>`_
 
 
-**Part-Time Show Podcast**
+**Подкасты о Particl**
 
 * `Youtube PTS <https://bit.ly/2ID2hOd>`_
 * `Buzzsprout PTS <https://www.buzzsprout.com/747440>`_
@@ -56,6 +56,6 @@ This section is a collection of many useful Particl-related links. It will redir
 * `Google Podcast PTS <https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NDc0NDAucnNz>`_
 * `Apple Podcast PTS <https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NDc0NDAucnNz&ved=0CAAQ4aUDahcKEwi4t8yC8OrnAhUAAAAAHQAAAAAQDQ>`_
 
-**CryptoRamble** 
+**Экскурсия в криптовалюту** 
 
 * `Youtube CR <https://www.youtube.com/channel/UCphRdyvqdktDRm0ruPqPRJA/videos>`_

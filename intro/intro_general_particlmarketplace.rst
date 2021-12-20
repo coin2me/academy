@@ -1,133 +1,136 @@
-=============
-What You Gain
-=============
+================
+Что вы получаете
+================
 
 .. title::
    Particl Marketplace Introduction
 
 .. meta::
    :description lang=en: Do e-commerce, in privacy, without anyone in between —a fair and level playing field for everyone.
+   :description lang=ru: Занимайтесь электронной коммерцией конфиденциально и без посредников - это справедливые и равные для всех правила игры. 
    :keywords lang=en: Boss, Blockchain, Privacy, E-Commerce, liberty, freedom
 
-:term:`Particl Marketplace` is a one-of-a-kind e-commerce platform that lets you buy and sell goods and services online with nobody in between. It’s just you and the other person you’re dealing with. There’s no company operating, controlling, or benefiting from the marketplace.
+:term:`Particl Marketplace` - это уникальная в своем роде платформа электронной коммерции, которая позволяет вам покупать либо продавать товары и услуги в интернете без посредников. Здесь есть только вы и другой человек, с которым вы совершаете сделку. Но - здесь нет никакой компании, которая управляла бы платформой, контролировала бы ваши действия и брала бы с вас комиссию за это.
 
-Unlike Amazon, eBay, or any other in-betweens, it is built with core security and privacy principles that keep you and your data safe at all times.
+В отличие от Amazon, eBay или каких-либо других посредников, наша платформа построена на ключевых принципах безопасности и конфиденциальности, и это обеспечивает безопасность для вас и ваших данных всегда.
 
-**The world has changed, so you change as well to brace up your liberty and future.**
 
-* :ref:`Protect your finances <Protect Your Finances>` and keep extra money for what matters in your life. 
-* :ref:`Stand for liberty <Stand For Liberty>` and stop being the exploited product.
-* :ref:`Squash the rogues <Squash The Rogues>` and stop the scammers.
-* :ref:`Contribute to society <Contribute To Society>` when you buy and sell online.
+**Мир вокруг изменился, поэтому вы должны меняеться для укрепления своей свободы и будущего.**
 
-Advanced and easy-to-use technology empowers you, your local economy, but not the corporate monopolies that prey on it. Feel like a hero fighting our generation’s most powerful villains!
+* :ref:`Защитите свои финансы <Защитите свои финансы>` и сэкономьте деньги для чего-нибудь важного в вашей жизни. 
+* :ref:`Боритесь за свободу<Боритесь за свободу>` и перестаньте быть объектом эксплуатации.
+* :ref:`Раздавите жуликов <Раздавите жуликов>` и остановите мошенников.
+* :ref:`Вносите свой вклад в общество <Вносите свой вклад в общество>` продавая либо покупая онлайн.
+
+Передовые и простые в использовании технологии расширяют именно ваши возможности участия в вашей местной экономике, а не корпоративных монополий, охотящихся за этими рынками. Почувствуйте себя героем, сражающимся с самыми могущественными злодеями нашего поколения!
 
 .. note:: 
-	 Particl Marketplace relies on open-source technologies openly audited, inspected, and improved by a global community. It is based on distributed ledger and peer-to-peer technologies. It runs on a network of independent nodes hosted by volunteers scattered across the world. The entirely autonomous platform doesn’t require any central party to operate or maintain, which means no company or organization is between buyers and sellers.
+	 Particl Marketplace полагается на технологии с открытым исходным кодом, которые открыто проверяются, контролируются и улучшаются всем  сообществом. Она основан на технологиях распределенного реестра и одноранговой сети. Её работа обеспечивается сетью независимых узлов, созданных волонтерами и разбросанных по всему миру. Такая полностью автономная платформа не требует какой-либо центральной организации, которая обеспечивала бы ее работу или обслуживала бы ее. А это означает простую вещь - между покупателями и продавцами просто нет никакой компании либо организации.
+          
 
 ----
 
-Protect Your Finances
+Защитите свои финансы
 ---------------------
 
-In today's economy, your survival is mainly bound to the state of your finances. So protecting your finances is a natural desire. Unfortunately, if you use “free” internet services, they are not really free! No, instead, you pay with your invaluable personal information and data, on top of commissions and fees.
+Ваше выживание в современной экономике главным образом зависит от состояния ваших финансов. Поэтому защитить свои финансы - это самое естественное желание. К сожалению, даже если вы пользуетесь какими-то «бесплатными» интернет-услугами - они на самом деле совсем не бесплатны! Вы всегда платите самым бесценным что у вас есть - личной информацией и данными, и это помимо возможных скрытых комиссий и сборов.
 
-:term:`Particl Marketplace` does not seek revenues from selling off your data or through fees. It doesn’t need that data and income because there is no corporate interest behind it. Instead, the people working on Particl are supported entirely by community donations, without any strings attached or compromise for you. This brings down the total cost of doing online commerce.
+Торговая площадка :term:`Particl Marketplace` не ищет выгоды в продаже ваших данных, либо в получении с вас комиссионных. Ей не нужны эти данные и такой доход, поскольку за ней не стоит корпоративный интерес. Вместо этого люди, занимающиеся разработкой Particl, полностью поддерживаются добровольными дотациями  сообщества, без каких-либо обязательств или компромиссов для вас. И это снижает общую стоимость ведения онлайн-торговли.
 
-*“We help you to save more or make more money by cutting out the middleman.“*
+*«Мы помогаем вам сэкономить больше или заработать больше денег путем исключения посредников»*
 
 ----
 
-Stand For Liberty
------------------
+Боритесь за свободу
+-------------------
 
-Big corporations collect data from you with every purchase and sale you make. They even do it the second you land on their website and start browsing. They use your data to analyze your behaviors as an online merchant or a consumer and increase their bottom line. Then, they sell your personal information or use it against you without your knowledge or consent. You’ve guessed it. You have become the product, and these corporations are your insidious thieves.
+Крупные корпорации собирают ваши данные при каждой совершенной вами покупке или продаже. Они делают это даже если вы только заходите на их веб-сайт и просто просматриваете. Они используют эти данные для анализа вашего поведения в качестве онлайн-продавца либо онлайн-покупателя, и, таким образом - для увеличения своей итоговой прибыли. Затем они продают вашу личную информацию, либо используют ее против вас без вашего ведома или согласия. Ну а дальше уже не сложно догадаться - вы стали для них лишь товаром, а эти корпорации для вас - коварными ворами.
  
-**Corporations like e-commerce giants have become your credit score broker.**
+**Корпорации-гиганты электронной коммерции становятся управляющим вашими кредитными рейтингами.**
 
-* Based on their risk assessment, they rate your insurance policies. 
-* Your personal preferences will be the reason why you may not get a particular job.
-* Or even worse, rating algorithms could block your bank accounts in the future!
+* Они диктуют политику страхования для вас, основываясь на своих субьективных оценках рисков. 
+* Ваши личные предпочтения могут стать причиной отказа в приеме на какую-нибудь определенную работу.
+* Или ещё того хуже - эти оценочные алгоритмы могут стать причиной блокировки вашего банковского счета в будущем!
 
-The ever-sprawling giant e-commerce corporations always seek to expand their profits, market power, and control. They have created today’s alarming digital security and privacy crisis under the guise of usability and convenience. And with all the information they possess, they've become more powerful than national governments! Believe it or not, protecting your data is protecting your finances and your quality of life.
+Гигантские и постоянно разрастающиеся корпорации электронной коммерции любыми путями стремятся увеличить свою прибыль, а также власть и контроль над рынками. Под видом заботы о пользователе и удобства использования, на самом деле они создали тревожный кризис цифровой безопасности и конфиденциальности. И очень часто они становятся даже сильнее правительств стран, владея всей этой информацией! Вы можете верить или нет, но - защита личных данных защищает ваши финансы и качество жизни гораздо лучше так называемой заботы корпораций о вас.
 
-*“We help you to become the captain of your data and liberties.“*
+*“Мы помогаем вам стать владельцем личных данных и свобод.“*
 
 ----
 
-Squash The Rogues
+Раздавите жуликов
 -----------------
 
-**You Stop Privacy Invasions and Backdoors** 
+**Вы остановите вторжение в частную жизнь и пользование вами без согласия** 
 
-No more stolen credit card information or passwords, compromised online accounts, or any online surveillance. When no data about you is created, it cannot be collected by anyone. And when no one collects it, it cannot be shared, sold, misused, hacked, or leaked anymore. That’s true for sellers and buyers regardless of whether it relates to your products, locations, payments, shipping information, preferences, or any online activity. As a result, you can now defend your human right to privacy and shield yourself from the many technical and political uncertainties of today’s world.
+Больше не будет никаких украденных данных кредитных карт или паролей, взломанных аккаунтов, или же какого-либо онлайн-наблюдения. Когда никаких ваших данных нигде нет - их никто не сможет собрать. И следовательно, если их никто не соберет - будет невозможно ими делиться, продавать, злоупотреблять, взламывать или сливать. Это верно как для продавцов, так и для покупателей, и в равной мере относится к вашим товарам, местоположению, платежам, информации о доставке, предпочтениям или какой-либо активности онлайн. В итоге теперь вы сможете защитить свое право человека на неприкосновенность частной жизни, а также защитить себя от многих технических и политических неопределенностей современного мира.
 
-*“We help you become invincible to privacy issues.”*
+*«Мы помогаем вам стать неуязвимым к проблемам с конфиденциальностью»*
 
-**You Stop Restrictions, Politics, and Malice**
+**Вы остановите ограничения, влияние политики и злой умысел**
 
-:term:`Particl Marketplace` has a 100% uptime that is impossible to be taken offline or manipulated. No merchant, buyer, or product can be banned, censored, or canceled by all-powerful tech overlords. Instead, it's the Particl community that is in charge of what content is allowed or not on the marketplace. Across national borders, you can now enjoy free trade and free-market conditions without the interference of governing bodies or unfair legislation. Manufacturers, vendors, and producers can freely decide how and with whom they do business.
+:term:`Particl Marketplace` находится онлайн 100% времени, ее невозможно отключить или манипулировать. Ни один торговец, покупатель или продукт не могут быть запрещены, подвергнуты цензуре или отмене какими-нибудь технически всемогущими властителями. Вместо этого все сообщество Particl решает какому контенту быть, а какому нет на торговой площадке. Не ограничиваясь национальными границами, вы теперь можете пользоваться условиями свободной торговли и свободного рынка, без вмешательства руководящих органов или несправедливого законодательства. Производители, продавцы и поставщики смогут свободно решать как и с кем им вести дела.
 
-*“We help you become bullet-proof against unfair restrictions.”*
+*«Мы помогаем вам стать пуленепробиваемым против несправедливых ограничений»*
 
-**You Stop Fraud and Trickery**
+**Вы остановите мошенничество и хитрости**
 
-No more bricks in the package or bad quality counterfeit goods for you as a customer. No more chargebacks for vendors due to stolen identities. Fraudulent attempts get taken down with a free of charge and automated two-party escrow system.
+Больше не будет кирпичей в упаковке либо некачественных поддельных товаров для вас как для покупателя. Больше не будет возвратов платежей для поставщиков из-за кражи личных данных. Мошеннические попытки пресекаются с помощью бесплатной автоматической двусторонней системы условного депонирования.
 
-*“We help you to become immune to online fraud and scammers.”*
+*«Мы даем вам иммунитет против онлайн-обмана и мошенников».*
 
-**You Stop Spam and Unwanted Solicitations**
+**Вы остановите спам и нежелательные предложения**
 
-Tailored ads are hammering on you even after making a purchase, and most of the time, even before you make it. You see them on the websites you visit, you encounter them throughout your emails, and directly on the apps you use. It even affects how search engines deliver results to you. Invasive ads follow you wherever you go, and, every day, they crawl deeper into your life.
+Персонализированная реклама обрушивается на вас сразу после совершения покупки и даже большую часть времени пока вы ее делаете. Вы видите ее на посещаемых вами веб-сайтах, вы находите ее в своей электронной почте, и даже в приложениях, которые вы используете. Это даже влияет на то как поисковые системы предоставляют вам результаты. Навязчивая реклама сопровождает вас на каждом шагу, и с каждым днем ​​они все глубже проникают в вашу жизнь.
 
-*“We help you to put an end to spam.”*
-
-----
-
-Contribute To Society
----------------------
-
-E-commerce and online marketplaces have made the world of shopping and selling a very different place. The price wars destroyed small merchants, only to benefit online platform operators and financial services providers. As a result, small businesses have had to give up, while only a handful of large corporations continuing to dominate the market. The ones who suffer the most are the low-to-middle-class people, the heart of every nation throughout the world.
-
-**Pledge to Small Merchants, Manufacturers, and Producers**
-
-Breaking the online monopolies gives merchants, manufacturers, and producers of goods and services the ability to build a livelihood that no longer depends on middlemen and large corporations' interests.
-
-**Pledge to Local Shops and Co-operatives**
-
-Local shops and co-operatives in your proximity get the ability to set up their own internet shops at virtually no cost, no maintenance requirement, and without any external interference or oversight.
-
-**Pledge to Yourself and your Communities**
-
-Some say that sustainability and responsibility are the cornerstones of a healthy economy. Don’t wait for somebody to make the economy better. Be your own revolution and liberation. Share and discuss :term:`Particl Marketplace` with your communities and help them improve their situation.
-
-*“It’s time to give back to the small, to the oppressed, and the exploited. Now you can reduce global inequalities and competitive disadvantages.”* 
+*“Мы поможем вам положить конец спаму.”*
 
 ----
 
-Your Successes
---------------
+Вносите свой вклад в общество
+-----------------------------
 
-By :ref:`installing <Installation Guides>` and using :term:`Particl Marketplace`, you make a conscious decision that rewards you:
+Электронная коммерция и торговые площадки в интернете сделали мир покупок и продаж совершенно другим. Ценовые войны уничтожили мелких торговцев, а пользу принесли лишь операторам крупных онлайн-платформ и поставщикам финансовых услуг. В результате малый бизнес был вынужден сдаться и лишь горстка крупных корпораций осталась доминировать на рынке. От этого больше всего страдают люди низкого и среднего класса, т.е.  сердце любой нации во всем мире.
 
-* You get lower product prices as a customer and higher margins as a vendor.
-* You become the captain of your personal data and liberties.
-* You are immune to online fraud.
-* You are invincible to privacy issues.
-* You are bullet-proof against restrictions.
-* You say goodbye to spam.
-* You fight against global economic and social inequalities.
+**Обещание мелким торговцам, производителям и поставщикам**
 
-*Admittedly, there is a price for all this. Currently, it is just a little bit of inconvenience. So, do you think it’s worth it?*
+Ликвидация онлайн-монополий даст торговцам, производителям и поставщикам товаров или услуг возможность зарабатывать средства к существованию, и это больше не будет зависеть от посредников и интересов крупных корпораций. 
+
+**Обещание местным магазинам и кооперативам**
+
+Местные магазины и кооперативы в непосредственной близости от вас получат возможность создавать свои собственные интернет-магазины практически бесплатно, без необходимости обслуживания и без какого-либо внешнего вмешательства или надзора.
+
+**Обещание вам и вашему окружению**
+
+Говорят что устойчивость и ответственность являются краеугольными камнями здоровой экономики. Так не ждите пока кто-то улучшит экономику за вас. Станьте сами своей собственной революцией и освобождением. Покажите и обсудите :term:`Particl Marketplace` со своим окружением, помогите им улучшить их дела.
+
+*“Пришло время отдать долг малым, угнетенным и эксплуатируемым. Теперь вы можете уменьшить глобальное неравенство и уравнять силы в конкурентной борьбе.”* 
 
 ----
 
-How it Works
--------------
+Ваши приобретения
+-----------------
 
-:term:`Particl Marketplace` relies on open-source technologies that are openly audited, inspected, and improved by the global community. Each and every single component of the marketplace is designed to keep you, your funds, and your personal information safe.
+Вы принимаете верное решение :ref:`устанавливая <Installation Guides>` и пользуясь :term:`Particl Marketplace`, и конечно же будете вознаграждены за это:
 
-It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-to-peer <Peer-to-Peer>` technologies, which you may know by hearing :term:`Blockchain` and Bitcoin's synonyms. It runs on a distributed network (:term:`Particl Network`) of :term:`nodes <Node>` hosted by volunteers scattered across the world. It is an entirely autonomous platform that doesn’t require any central party to operate, which means no company or organization is between buyers and sellers.
+* Вы получаете более низкие цены на товары как покупатель и более высокую прибыль как продавец.
+* Вы становитесь управляющим своих личных данных и свобод.
+* Вы защищены от мошенничества в интернете.
+* Вы неуязвимы для проблем утечки конфиденциальности.
+* Вы защищены от ограничений.
+* Вы попрощаетесь со спамом.
+* Вы боретесь с глобальным экономическим и социальным неравенством. 
+
+*Всем известно что за все это есть своя цена. На данный момент - это просто небольшие неудобства. Как вы думаете, оно того стоит?*
+
+----
+
+Как это работает
+----------------
+
+:term:`Particl Marketplace` базируется на технологиях с открытым исходным кодом, которые открыто проверяются, верифицируются и улучшаются мировым сообществом. Все вместе и каждый в отдельности компонент торговой площадки создан для защиты вас, ваших денег и вашей персональной информации.
+
+Она основана на технологиях на :term:`распределенного реестра <Distributed Ledger>` и :term:`одноранговой сети р2р <Peer-to-Peer>` , о которых вы возможно уже слышали как о синонимах слов :term:`блокчейн` и Bitcoin. Она работает в :term:`сети <Particl Network>` независимых :term:`узлов  <Node>` , управляемых волонтерами и разбросанными по всему миру. Это полностью автономная платформа, не требующая для работы какого-либо центрального органа управления, и это означает, что между покупателями и продавцами на самом деле нет никакого посредника или компании-оператора. 
 
 .. raw:: html
 
@@ -138,10 +141,10 @@ It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-t
 
 ----
 
-**It gets even more interesting**
+**Становится все интереснее**
 
-Now you have a good understanding of what you get. In the next chapter, you'll learn about the target audiences and their needs. Can you find yourself there? 
+Теперь вы уже достаточно хорошо представляете что именно мы вам дадим. В следующей главе мы расскажем о целевой аудитории пользователей, кому и зачем это может понадобится. Интересно, найдете ли вы и себя среди них? 
 
-Perhaps you want to skip that part and install it right away? Just head over to the :ref:`Installation Guides`.
+Но, возможно вы желаете пропустить эту часть и начать установку торговой площадки уже прямо сейчас? Тогда перейдите сюда :ref:`Руководство по установке`.
 
 ----
