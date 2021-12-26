@@ -1,76 +1,77 @@
-==============
-Obtaining PART
-==============
+=================
+Как получить PART
+=================
 
 .. title::
-   Particl Marketplace Obtain $PART Coin
+   Приобретение монеты $PART для использования на Particl Marketplace
 
 .. meta::
+   :description lang=en: Где я могу купить монету $PART?
    :description lang=en: Where can I buy $PART coin?
 
-To use :term:`Particl Marketplace` and enjoy its privacy features, you need the PART coin. It can be purchased or exchanged using cryptocurrency exchanges and various online services.
+Чтобы пользоваться торговой площадкой :term:`Particl Marketplace` и получать удовольствие от ее конфиденциальных свойств, вам понадобится монета PART. Вы можете ее купить или обменять на криптовалютных биржах или в различных других онлайн сервисах.
 
-Cryptocurrency Exchanges
-------------------------
+Криптовалютные биржи
+--------------------
 
-While cryptocurrency exchanges are mostly regulated and privately held companies intent on making a profit, they are the most common way to obtain coins. In some cases, owning Bitcoin is a prerequisite to purchasing PART.
+Хотя деятельность криптовалютных бирж в основном регулируется, и ими владеют частные компании, стремящиеся извлечь прибыль - это наиболее распространенный способ получения монет. В некоторых случаях владение биткоинами является предварительным условием для покупки PART. 
 
-* `Bittrex (recommended) <https://bittrex.com/Market/Index?MarketName=BTC-PART>`_
-* `Probit (recommended) <https://www.probit.com/app/exchange/PART-BTC>`_
+* `Bittrex (рекомендуется) <https://bittrex.com/Market/Index?MarketName=BTC-PART>`_
+* `Probit (рекомендуется) <https://www.probit.com/app/exchange/PART-BTC>`_
 
 .. rst-class:: bignums
 
-	#. Register on the cryptocurrency exchange of choice
-	#. (Optional) If you don't already own Bitcoin, trade some using other cryptocurrencies
-	#. Trade Bitcoin (BTC) for Particl (PART)
-	#. Withdraw PART to your local wallet's :guilabel:`Public` address within the :term:`Particl Desktop` client. Refer to the :ref:`Receive Coins <Receive Coins>` user guide for more details 
+	#. Зарегистрируйтесь на криптовалютной бирже по своему выбору
+	#. (не обязательно) Если у вас ещё биткоина - купите нужное количество за другие криптовалюты
+	#. Обменяйте Bitcoin (BTC) на Particl (PART)
+	#. Выведите PART на адрес :guilabel:`Public` вашего кошелька в приложении :term:`Particl Desktop`. Более детально в этом разделе руководства: :ref:`Получение монет <Получение монет>` 
 
 .. seealso::
 
- - Particl Website - `Full list of PART exchanges <https://particl.io/part-exchanges/>`_
- - Particl Academy - :ref:`Managing Funds - Receive Coins <Receive Coins>`
+ - Вебсайт Particl - `Полный список бирж PART <https://particl.io/part-exchanges/>`_
+ - Академия Particl - :ref:`Управление средствами - Получение монет <Получение монет>`
 
 
-Non-Custodial Exchanges
------------------------
+Некастодиальные биржи 
+---------------------
 
-Non-custodial exchanges or swap exchanges are online services that let you directly exchange one cryptocurrency for another without intermediary steps and double fees.
+Некастодиальные биржи или свап-обменники - это онлайн сервисы, позволяющие вам обменивать одну криптовалюту на другую непосредственно со своего кошелька, без промежуточных шагов, таких как депозиты и выводы средств, и без уплаты комиссии за эти шаги соответственно.
 
-* `WizardSwap (recommended) <https://wizardswap.io>`_
+* `WizardSwap (рекомендуется) <https://wizardswap.io>`_
 
 .. rst-class:: bignums
 
-	#. Open the swap exchange website.
-	#. Choose the source cryptocurrency to swap from.
-	#. Choose PART as the target cryptocurrency. 
-	#. Review the quote offered by the exchange.
-	#. Send your coins to the address provided and wait for the transaction to be completed. This can take several minutes, depending on the exchange and the currency you trade for.
-	#. Receive PART to your local wallet's :guilabel:`Public` address within the :term:`Particl Desktop` client. Refer to the :ref:`Receive Coins <Receive Coins>` user guide for more details.
+	#. Откройте вебсайт свап-обменника.
+	#. Выберите криптовалюту, которую будете обменивать.
+	#. Выберите PART как валюту, которую желаете получить. 
+	#. Просмотрите котировки, предложенные биржей.
+	#. Отправьте свои монеты на адрес, предоствленный биржей и дождитесь завершения транзакции. Это может занять некоторое время, в зависимости от биржи и от криптовалюты, которую обмениваете.
+	#. Получите PART на адрес :guilabel:`Public` своего кошелька в приложении :term:`Particl Desktop`. Более детально в этом разделе руководства: :ref:`Получение монет <Получение монет>`
 
 
-In-App Swap Engine
-------------------
+Встроенный обменный модуль
+--------------------------
 
-The PART coin can also be obtained directly from within the :term:`Particl Desktop` client. The in-app swap engine lets you get PART without registering on any third-party exchange and without leaving the :term:`Particl Desktop` client. It is the most user-friendly method.
+Монету PART также можно приобрести непосредственно внутри приложения :term:`Particl Desktop`. Встроенный модуль обмена позволяет вам получить PART без регистраций на какой-либо внешней бирже и не выходя из приложения :term:`Particl Desktop`. Это наиболее удобный метод для пользователя.
 
 .. attention:: 
    
-   Particl's in-app swap engine is temporarily unavailable. We are working on getting it back up as soon as possible!
+   Встроенный обменный модуль Particl временно недоступен. Мы работаем над тем чтобы вернуть его к работе как можно скорее!
 
 .. rst-class:: bignums
 
-	#. Open :term:`Particl Desktop`.
-	#. Open the :guilabel:`Swap` module from within the apps menu at the very left and then click on :guilabel:`Start New Exchange`. 
-	#. Set the number of PART coins you want to obtain and the currency you want to swap for it. Then click on the :guilabel:`Next` button.
-	#. Review the quote offered by the exchange. Click on the :guilabel:`Next` button to confirm.
-	#. Send your coins to the address provided and wait for the transaction to be completed. This can take several minutes, depending on the exchange and the currency you trade for.
+	#. Зайдите в :term:`Particl Desktop`.
+	#. Откройте вкладку :guilabel:`Swap` в меню слева и нажмите :guilabel:`Start New Exchange`. 
+	#. Введите сумму монет PART, которую вы желаете приобрести и валюту, которую желаете обменять. Затем нажмите кнопку :guilabel:`Next`.
+	#. Просмотрите котировки, предложенные биржей. Нажмите на кнопку :guilabel:`Next` для подтверждения.
+	#. Отправьте свои монеты на адрес, предоствленный биржей и дождитесь завершения транзакции. Это может занять некоторое время, в зависимости от биржи и от криптовалюты, которую обмениваете.
 
 .. note::
 
-	**Prerequisite:** Enable the desired exchange bot.
+	**Предварительно:** включите желаемого бота обмена.
 
-	#. Open :guilabel:`Swap` -> :guilabel:`BOT MANAGEMENT`.
-	#. Choose an exchange and enable its bot by expanding its tile and then clicking on the :guilabel:`Enable bot` button.
+	#. Откройте вкладку :guilabel:`Swap` -> :guilabel:`BOT MANAGEMENT`.
+	#. Выберите желаемую биржу и включите ее бота, раскрыв его плитку и затем нажав на кнопку :guilabel:`Enable bot`.
 
 
 

@@ -1,91 +1,91 @@
-============================
-Funds, Coins, and Balances
-============================
+=======================
+Фонды, монеты и балансы
+=======================
 
 .. title::
-   Particl Marketplace Managing Funds
+   Управление фондами на торговой площадке Particl
 
-In this section, you will learn how to manage your funds using :term:`Particl Desktop` in preparation for buying and selling goods and services on :term:`Particl Marketplace`.
+В этой главе вы узнаете как можно управлять вашими средствами в приложении :term:`Particl Desktop` для подготовки к покупке или продаже товаров и услуг на :term:`Particl Marketplace`.
 
 .. meta::
+   :description lang=ru: Узнайте как управлять вашими средствами в Particl Desktop.
    :description lang=en: Learn how to manage your funds with Particl Desktop.
 
-.. contents:: Table of Contents
+.. contents:: Содержание
    :local:
    :backlinks: none
    :depth: 2
 
 .. note::
 
-	With Particl's native currency (PART), there are three different types of transactions: 
+	Для собственной валюты системы Particl (PART) существует три различных типа транзакций: 
 
-	#. :ref:`Public transactions` 
-	#. :ref:`Blind transactions` 
-	#. :ref:`Anon transactions` 
+	#. :ref:`Public - публичные транзакции` 
+	#. :ref:`Blind - слепые(скрытые) транзакции` 
+	#. :ref:`Anon - анонимные транзакции` 
 
-	Each of them serves a different function within the platform and carries its own level of transactional privacy.
+	Каждый из них служит для разных функций платформы и обеспечивает определенный уровень конфиденциальности транзакции.
 
-Needed Funds
-------------
+Необходимые средства
+--------------------
 
-**PART funds needed for selling**
+**Средства PART, необходимые для продаж**
 
-To sell products and services on :term:`Particl Marketplace`, you typically need to have coins in both your :guilabel:`Public` balance and in your :guilabel:`Anon` balance. If you enable the *Use spendable (Anon) balance for publishing fees* option in your market settings, then you only need to have funds in your :guilabel:`Anon` balance. Keep in mind publishing listings will be more expensive if you choose that option.
+Для продажи товаров и услуг на :term:`Particl Marketplace` вам, как правило, нужно иметь монеты и на вашем балансе :guilabel:`Public`, и на балансе :guilabel:`Anon` также. Однако, если вы включите опцию *Use spendable (Anon) balance for publishing fees* в настройках вашего рынка, то будет достаточно иметь монеты только на балансе :guilabel:`Anon`. Но имейте ввиду, что публикация объявлений получится дороже при использовании этой опции.
 
-**PART funds needed for buying**
+**Средства PART, необходимые для покупок**
 
-To buy products and services on :term:`Particl Marketplace`, you only need coins in your :guilabel:`Anon` balance. 
+Для покупки товаров и услуг на :term:`Particl Marketplace` вам нужно иметь монеты только на вашем балансе :guilabel:`Anon`. 
 
 .. seealso::
 
-  - Particl Academy - :doc:`Obtaining PART coins <../guides/guide_general_obtaining_part>`
-  - Particl Academy - :doc:`PART Cryptocurrency Explained <../in-depth/indepth_part_coin>`
-  - Particl Academy - :doc:`Staking Explained <../in-depth/indepth_staking>`
+  - Академия Particl - :doc:`Как получить PART <../guides/guide_general_obtaining_part>`
+  - Академия Particl - :doc:`Монета PART <../in-depth/indepth_part_coin>`
+  - Академия Particl - :doc:`Стейкинг <../in-depth/indepth_staking>`
 
-Receive Coins 
--------------
+Получение монет 
+---------------
 
-There are multiple ways you can fund your balances with PART coins.
+Есть много вариантов для пополнения ваших балансов монетами PART.
 
-**From another PART address**
+**С другого адреса PART**
 
-Receive PART coins coming from any wallet holding PART funds. This can be a personal wallet, a public exchange service provider, or a hardware wallet. 
+Переведите монеты PART с любого другого кошелька, содержащего необходимую сумму PART. Это может быть или ваш личный кошелек, или же публичный обменник, биржа, или аппаратный кошелек, или другое. 
 
 .. rst-class:: bignums
 
-	#. Open :guilabel:`Wallet` -> :guilabel:`Receive`.
-	#. Receive a public transaction by choosing :guilabel:`Public` from the tabs menu at the top of the page, or select the :guilabel:`Private` tab instead if you want to receive a private transaction (either :guilabel:`Blind` or :guilabel:`Anon`). 
-	#. Share your address with the party to receive the funds.  
+	#. Откройте вкладку :guilabel:`Wallet` -> :guilabel:`Receive`.
+	#. Выберите вкладку :guilabel:`Public` в меню вверху страницы для получения публичного платежа. Если же вы хотите получить конфиденциальный платеж, то выберите вкладку :guilabel:`Private` (и для :guilabel:`Blind`, и для :guilabel:`Anon`). 
+	#. Скопируйте ваш адрес и дайте его плательщику.  
 	
 .. tip::
+	#. Отправитель и получатель должны согласовать тип транзакции(например, биржи поддерживают только :guilabel:`Public` платежи).
+	#. Создавайте новый адрес получения :guilabel:`Receive` для каждой транзакции. (Это не обязательно, но рекомендуется для улучшения конфиденциальности).
+	#. Добавление меток к адресам поможет лучше мониторить ваши платежи.
+	#. Копируя/вставляя адрес для отправки своему партнеру, всегда дважды проверьте и убедитесь что скопировали его точно. Помните: **вы сами себе банк!**.
 
-	#. Both the sender and receiver must agree on the transaction type (exchanges, for example, only support :guilabel:`Public` transactions).
-	#. Create a new :guilabel:`Receive` address for every transaction. (Optional, but recommended for better privacy).
-	#. Adding a label to an address is helpful to keep track of your transactions better.
-	#. When posting the address from the clipboard to another party, always verify and double-check the pasted address with the original. Make sure they are identical. Remember: **You are your own bank**.
+**Из встроенного обменного модуля**
 
-**From the in-app swap-exchange module**
-
-The in-app swap-exchange module allows you to obtain PART funds without the need to visit an external exchange or directly deal with another party. 
+Встроенный в приложение обменный модуль позволяет вам получить монеты PART без посещения внешней биржи, а также без непосредственного взаимодействия с каким-либо партнером. 
 
 .. seealso::
 
-  - Particl Academy - Using Particl's :ref:`In-App Swap Engine <In-App Swap Engine>`
+  - - Академия Particl - Руководство пользователя :ref:`Встроенный обменный модуль <Встроенный обменный модуль>`
 
 
-Convert Balances
-----------------
+Конвертация балансов
+--------------------
 
-Switching your coins from one type of balance to another is required to make different types of transactions. Refer to the :doc:`PART Coin Explained <../in-depth/indepth_part_coin>` in-depth guide for more details on transaction types and balances. 
+Перемещения ваших монет с баланса одного типа на другой необходимы для совершения транзакций различного типа. Более детализированную и углубленную информацию о типах транзакций и балансах вы найдете в этом руководстве: :doc:`Монета PART подробно <../in-depth/indepth_part_coin>`. 
 
 .. rst-class:: bignums
 
-	#. Open :guilabel:`Wallet` -> :guilabel:`Send / Convert` ->  :guilabel:`Convert Public & Private`.
-	#. In the :guilabel:`Pay From` section, select the source of funds you would like to convert. In the :guilabel:`Convert To` section, select the destination of funds you would like to receive.
-	#. Type in the number of coins you want to send to your other balance and click on the :guilabel:`Make Payment` button.
-	#. Review the transaction details and click on the :guilabel:`Confirm & Send` button to start the process.
+	#. Откройте вкладку :guilabel:`Wallet` -> :guilabel:`Send / Convert` ->  :guilabel:`Convert Public & Private`.
+	#. В таблице :guilabel:`Pay From` (слева) выберите исходный баланс средств, которые вы хотите конвертировать. В таблице :guilabel:`Convert To` (справа) выберите баланс, на который вы хотите перевести средства.
+	#. Введите сумму монет, которую вы хотите переместить на свой другой баланс и нажмите кнопку :guilabel:`Make Payment`.
+	#. Перепроверьте все детали транзакции и нажмите кнопку :guilabel:`Confirm & Send` для начала процесса.
 		
 .. tip:: 
 
-    #. Wait for twelve (12) confirmations (approximately 24 minutes) before the funds in the anon balance can be used without restriction.
-    #. You can track the status of transactions in the :guilabel:`Overview` module under :guilabel:`Recent Transactions`.
+    #. Подождите 12 подтверждений(примерно 24 минуты) до того как средсва на балансе anon будут доступны к использованию без ограничений.
+    #. Вы можете отслеживать статус транзакций в модуле :guilabel:`Overview` во вкладке :guilabel:`Recent Transactions`.

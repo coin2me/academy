@@ -128,7 +128,7 @@ Particl объясняет
 .. in-depth/indepth_opensource
 
 * :doc:`Торговая площадка Particl <in-depth/indepth_mp_explained>`
-* :doc:`Монета PART <in-depth/indepth_part_coin>`
+* :doc:`Монета PART подробно <in-depth/indepth_part_coin>`
 * :doc:`Стейкинг <in-depth/indepth_staking>`
 * :doc:`Двусторонняя система страховых депозитов <in-depth/indepth_escrow>`
 * :doc:`Модерация торговой площадки <in-depth/indepth_mp_moderation>`

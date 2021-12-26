@@ -13,15 +13,15 @@ PART is also the settlement currency of the :term:`Particl Marketplace`. Regardl
 
 ----
 
-.. contents:: Table of Contents
+.. contents:: Содержание
    :local:
    :backlinks: none
    :depth: 2
 
 ----
 
-What are cryptocurrencies?
---------------------------
+Что такое криптовалюты?
+-----------------------
 
 :term:`Cryptocurrencies <Cryptocurrency>` are digital units of currency. They can be transferred person-to-person without requiring any third-party (like a bank or a payment processor) to facilitate transactions. They enable near-free, near-instant, and borderless currency transactions that cannot be held up, blocked, reversed (chargebacks), or delayed by any party.
 
@@ -40,8 +40,8 @@ What are cryptocurrencies?
 - You and only you are responsible for the security of your funds. They cannot be retrieved if you lose your password(s) or control over your wallets(s).
 - The price of almost any cryptocurrency is volatile by nature and based on the concept of supply and demand.
 
-Blockchain Specifications
--------------------------
+Характеристики блокчейна
+------------------------
 
 PART is the :term:`cryptocurrency <Cryptocurrency>` of the :term:`Particl blockchain <Particl Blockchain>`. It is a secure and confidential currency explicitly designed to power e-commerce and financial platforms. It uses several security, cryptographic, and privacy-preserving protocols to make sure none of your personal information and data can be collected when transacting on the :term:`Particl Marketplace <Particl Marketplace>`. 
 
@@ -71,27 +71,27 @@ PART was released back in 2017 and is based on the latest version of the Bitcoin
 | **Atomic Swaps**         | Enabled  (Particl DEX coming soon)                        |
 +--------------------------+-----------------------------------------------------------+
 
-Staking Specifications
-----------------------     
+Характеристики стейкинга
+------------------------     
 
 Particl uses the :doc:`Particl Proof-of-Stake <../in-depth/indepth_staking>` (:term:`PPoS`) consensus mechanism. It pays back interest in dividend-like payments to stakers in exchange for securing the network. :term:`PPoS` offers many secure staking options that let you easily and quickly earn rewards without any of the security or financial risks typically associated with staking.
 
 :term:`PPoS` is also what Particl's :ref:`community governance system <Community Governance Explained>` uses to let you cast votes on proposals.
 
-Cold staking protocol
-=====================
+Протокол холодного стейкинга
+============================
 
 Particl's cold staking protocol allows you to securely delegate your staking power to a staking-only node that contains no coin. This lets your earn interest payments (:ref:`staking rewards <What's a staking reward?>`) on your PART coins, even if they're stored offline. 
 
 It enables true and secure staking on cold wallets, hardware devices (i.e., Ledger Nano), mobile wallets, cloud servers, or even just a piece of paper. Staking-only nodes do not have access to the coins they are staking, meaning they are hackproof.
 
-Cold staking pools
-==================
+Пулы холодного стейкинга
+========================
 
 You can join a cold staking pool to team up with other stakers and combine your staking powers. This leads to more frequent rewards in exchange for a small fee paid to the pool operator. Cold staking pools are ideal if you have a smaller balance or don't want to manage a staking node yourself.  
 
-On-chain voting right
-=====================
+Право голосования в сети 
+========================
 
 Particl's :ref:`community governance <Community Governance Explained>` is powered by :term:`PPoS`. By staking, you can :ref:`vote on community proposals <Voting on Proposals>` using your staking power as voting power. When voting on a proposal, any block you stake during the voting period will cast a vote. The more blocks you stake during a proposal's voting period, the more votes you cast.
 
@@ -115,8 +115,8 @@ Particl's :ref:`community governance <Community Governance Explained>` is powere
 | **Coin Maturity**           | 225 blocks (~8 hours)  |
 +-----------------------------+------------------------+
 
-Privacy Specifications
-----------------------  
+Характеристики конфиденциальности
+---------------------------------  
 
 PART is a modern-day :term:`cryptocurrency <Cryptocurrency>` and the logical evolution to Bitcoin. It doesn't just allow you to transact person-to-person with anyone else; it also does it in a way that doesn't permanently share all of your financial data with the rest of the world. 
 
@@ -138,8 +138,8 @@ PART has an adjustable level of privacy and lets you choose between three differ
 
 PART has three different types of transactions, each with its own purpose, cost, level of privacy, type of balance, and settings. All three types are available on :term:`Particl Desktop`, where you can easily convert your coins from one kind of balance to another. 
 
-Public transactions
-===================
+Public - публичные транзакции
+=============================
 
 - **Cost:** Very low
 - **Privacy:** Public; transacted amounts and the identity of the participants are permanently written on the blockchain and publicly displayed. Identical to Bitcoin transactions.
@@ -158,8 +158,8 @@ Additionally, public transactions can only be sent to public balances, which is 
 - Moderate the :term:`Particl Marketplace`.
 - Use smart-contracts. 
 
-Blind transactions
-==================
+Blind - слепые(скрытые) транзакции
+==================================
 
 - **Cost:** Low
 - **Privacy:** Confidential; the identity of the participants is publicly displayed on the blockchain, but transacted amounts are kept anonymous.
@@ -174,8 +174,8 @@ The identity of the participants (their PART address) is still publicly displaye
 - Send and receive payments without disclosing the value transferred.
 - Use confidential smart-contracts.
 
-Anon transactions
-=================
+Anon - анонимные транзакции
+===========================
 
 - **Cost:** Moderate
 - **Privacy:** Anonymous; both the transacted amounts and the identity of the participants are anonymous. No date is publicly displayed on the blockchain.
@@ -196,8 +196,8 @@ Anon transactions can be made more or less anonymous by manually adjusting the n
 
 Read the :doc:`Funds, Coins, and Balances <../guides/guide_mp_general_managing_funds>` user guide for more information on making different types of transactions.
 
-Marketplace Payments and Settlements
-------------------------------------
+Платежи и расчеты на торговой площадке 
+--------------------------------------
 
 The PART coin is the settlement layer of :term:`Particl Marketplace`. Although you can initiate transactions using other cryptocurrencies (i.e., Bitcoin), all marketplace payments are converted into PART :ref:`before the seller receives a bid from a buyer <Technicals of a Buy Flow>`.
 
@@ -212,7 +212,7 @@ One of the results of settling all marketplace transactions in PART is that a fa
 
 .. seealso::
 
- Other sources for useful or more in-depth information:
+ Другие источники полезной или более подробной информации:
 
  - Particl Academy - Explained :doc:`Staking <../in-depth/indepth_staking>`
  - Particl Academy - Guide :doc:`Staking and Voting <../guides/guide_mp_general_enable_staking>`
